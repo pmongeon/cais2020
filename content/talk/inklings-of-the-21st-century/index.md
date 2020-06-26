@@ -11,7 +11,7 @@ publishDate: 2020-06-26T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Oluwole Martins Badmus
+  - Arielle VanderSchans
 tags:
   - ""
 image:
