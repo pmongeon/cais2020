@@ -1,6 +1,7 @@
 ---
 # Display name
 title: CAIS2020
+avatar_filename: avatar.png
 
 # Username (this should match the folder name)
 authors:
@@ -26,3 +27,4 @@ social:
 
 # Diverging Trajectories in Information Science
 ## A virtual conference open to all
+## 
