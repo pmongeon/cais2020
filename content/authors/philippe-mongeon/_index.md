@@ -1,6 +1,6 @@
 ---
 title: Philippe Mongeon
-role: Co-chair
+role: School of Information Management, Dalhousie University
 avatar_filename: avatar
 superuser: false
 user_groups:
