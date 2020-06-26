@@ -1,6 +1,6 @@
 ---
-title: When the Storm is Over
-abstract: Upcoming
+title: "What the World Needs Now? Love as a Lens on Library and Information Work Today"
+abstract: "What the World Needs Now? Love as a Lens on Library and Information Work Today"
 location: www.zoomlinkwillbehere.com
 date: 2020-06-26T12:36:37.763Z
 date_end: 2020-06-26T12:37:40.471Z
@@ -11,7 +11,8 @@ publishDate: 2020-06-26T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Oluwole Martins Badmus
+  - Mary Greenshields
+  - Sarah Polkinghorne
 tags:
   - ""
 image:
