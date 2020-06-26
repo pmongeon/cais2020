@@ -27,4 +27,4 @@ social:
 
 ## An **Open** Virtual Conference
 
-The conference website is still under construction... so visit us again later [follow us on Twitter](https://twitter.com/cais_acsi) for updates. Please also feel free to [contact us](/#contact).
+The conference website is still under construction... so visit us again later, or [follow us on Twitter](https://twitter.com/cais_acsi) for updates. Please also feel free to [contact us](/#contact).
