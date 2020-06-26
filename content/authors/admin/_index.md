@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 
 # Username (this should match the folder name)
 authors:
