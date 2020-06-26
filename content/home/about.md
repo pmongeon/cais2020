@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
 
-title = "CAIS2020"
+title = "CAIS2020: Diverging Trajectories in Information Science"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.

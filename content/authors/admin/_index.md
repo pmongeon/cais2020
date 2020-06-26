@@ -25,6 +25,4 @@ social:
   
 ---
 
-# Diverging Trajectories in Information Science
 ## A virtual conference open to all
-## 
