@@ -5,7 +5,7 @@ location: www.zoomlinkwillbehere.com
 date: 2020-06-26T12:36:37.763Z
 date_end: 2020-06-26T12:37:40.471Z
 all_day: false
-event: session #2 - Scholalry Communication
+event: "session #2 - Scholalry Communication"
 event_url: https://cais2020.ca/
 publishDate: 2020-06-26T12:36:37.825Z
 draft: false
