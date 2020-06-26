@@ -1,5 +1,5 @@
 ---
-title: Samuel Cassidy
+title: Asen O. Ivanov
 role: "University of Guelph, Guelph, ON, Canada "
 avatar_filename: avatar
 bio: Asen O. Ivanov is the Michael Ridley Postdoctoral Fellow in Digital
