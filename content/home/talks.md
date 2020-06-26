@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 66  # Order that this section will appear.
 
 title = "Upcoming talks"
-subtitle = ""
+subtitle = "Please note that the actual talk dates and times have not yet been set"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
