@@ -20,6 +20,10 @@ event_url: CAIS2020.ca
 publishDate: 2020-06-26T00:54:21.579Z
 draft: false
 featured: false
+authors:
+  - Phil
+  - Roger
+  - Leah
 tags:
   - test
   - test2
