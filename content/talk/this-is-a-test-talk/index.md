@@ -10,7 +10,7 @@ abstract: "This is a test abstract This is a test abstract  This is a test
   abstract  This is a test abstract  This is a test abstract  This is a test
   abstract  This is a test abstract  This is a test abstract  This is a test
   abstract "
-location: test
+location: www.linktopresentation.com
 date: 2020-07-26T00:00:00.000Z
 date_end: 2020-07-26T01:30:00.000Z
 all_day: false
