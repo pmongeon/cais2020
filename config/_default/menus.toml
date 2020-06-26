@@ -28,3 +28,8 @@
   url = "#contact"
   weight = 60
 
+[[main]]
+  name = "Fr"
+  url = "https://acsi2020.ca"
+  weight = 65
+
