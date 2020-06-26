@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: CAIS2020
 
 # Username (this should match the folder name)
 authors:
