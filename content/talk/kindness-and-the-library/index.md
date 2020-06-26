@@ -1,6 +1,6 @@
 ---
-title: When the Storm is Over
-abstract: Upcoming
+title: "Kindness & the library"
+abstract: "In library and information science (LIS) programs we often discuss the ‘soft skills’, the interpersonal communication skills that make interactions with the public stronger. The proposed poster outlines reading and thinking around the concepts of kindness, empathy, and an ethic of care (Tronto, 1993) in relation to library services. We plan to outline three different areas. 1) We will discuss the work we are doing to tease apart the concepts of empathy and kindness in the LIS literature. 2) We will outline how these ideas are discussed in other disciplines, including sociology, brain science, psychology, nursing, and ethics. 3) lastly, we plan to discuss the benefits and challenges inherent in developing these concepts more fully for LIS practitioners."
 location: www.zoomlinkwillbehere.com
 date: 2020-06-26T12:36:37.763Z
 date_end: 2020-06-26T12:37:40.471Z
@@ -11,7 +11,8 @@ publishDate: 2020-06-26T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Oluwole Martins Badmus
+  - Heather Hill
+  - Kelli Jerome
 tags:
   - ""
 image:
