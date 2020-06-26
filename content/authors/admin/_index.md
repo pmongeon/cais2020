@@ -25,6 +25,6 @@ social:
   
 ---
 
-## A virtual conference open to all
+## An **open** virtual conference
 
 The conference website is still under construction... so visit us again later [follow us on Twitter](https://twitter.com/cais_acsi) for updates. Please also feel free to [contact us](/#contact).
