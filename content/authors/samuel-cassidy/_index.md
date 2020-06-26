@@ -1,13 +1,15 @@
 ---
-title: Asen O. Ivanov
-role: "University of Guelph, Guelph, ON, Canada "
+title: Samuel Cassidy
+role: Western Libraries, London, ON, Canada
 avatar_filename: avatar
-bio: Asen O. Ivanov is the Michael Ridley Postdoctoral Fellow in Digital
-  Humanities at the College of Arts at the University of Guelph, where he is
-  affiliated with the THINC Lab, the School of Languages and Literatures, and
-  the Research & Scholarship team at the McLaughlin Library.
+bio: Samuel is the Head of Collections & Content Strategies at Western
+  University, in London, Canada.  Previously, Samuel worked as a Digital
+  Information Resources Librarian, also at Western, and was the Head of
+  Collections & Technical Services at the Southern Alberta Institute of
+  Technology.
+social: []
 superuser: false
 user_groups:
-  - Presenters
+  - Authors
 ---
-Asen O. Ivanov is the Michael Ridley Postdoctoral Fellow in Digital Humanities at the College of Arts at the University of Guelph, where he is affiliated with the THINC Lab, the School of Languages and Literatures, and the Research & Scholarship team at the McLaughlin Library.
+Samuel is the Head of Collections & Content Strategies at Western University, in London, Canada.  Previously, Samuel worked as a Digital Information Resources Librarian, also at Western, and was the Head of Collections & Technical Services at the Southern Alberta Institute of Technology.
