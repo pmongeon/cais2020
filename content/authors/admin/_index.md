@@ -24,4 +24,5 @@ social:
   
 ---
 
-# Currently under construction
+# Diverging Trajectories in Information Science
+## A virtual conference open to all
