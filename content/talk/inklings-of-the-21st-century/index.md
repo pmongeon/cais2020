@@ -1,5 +1,5 @@
 ---
-title: Inklings of the 21st Century - #WRITINGCOMMUNITY
+title: "Inklings of the 21st Century - #WRITINGCOMMUNITY"
 abstract: Upcoming
 location: www.zoomlinkwillbehere.com
 date: 2020-06-26T12:36:37.763Z
