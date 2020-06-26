@@ -6,7 +6,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[search]`).
 
 ############################
-## Theme
+    ## Theme
 ############################
 
 # Choose a theme.
