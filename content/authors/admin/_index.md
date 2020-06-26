@@ -16,12 +16,12 @@ superuser: true
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/cais_acsi
+# - icon: envelope
+#  icon_pack: fas
+#  link: '#contact'
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/cais_acsi
   
 ---
 
