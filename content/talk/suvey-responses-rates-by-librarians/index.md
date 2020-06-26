@@ -1,5 +1,5 @@
 ---
-title: When the Storm is Over
+title: Survey response rates by librarians
 abstract: Upcoming
 location: www.zoomlinkwillbehere.com
 date: 2020-06-26T12:36:37.763Z
@@ -11,7 +11,7 @@ publishDate: 2020-06-26T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Oluwole Martins Badmus
+  - Sam Vander Kooy
 tags:
   - ""
 image:
