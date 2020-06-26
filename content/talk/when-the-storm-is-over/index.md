@@ -10,8 +10,10 @@ event_url: session-link
 publishDate: 2020-06-26T12:36:37.825Z
 draft: false
 featured: false
-tags:
+authors:
   - Oluwole Martins Badmus
+tags:
+  - ""
 image:
   filename: featured
   focal_point: Smart
