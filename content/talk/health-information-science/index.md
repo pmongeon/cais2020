@@ -1,6 +1,6 @@
 ---
-title: "Title"
-abstract: "Upcoming"
+title: "Health Information Science: Perspectives on a discipline in development"
+abstract: "How is Health Information Science developing as an academic discipline? In describing the conceptual and methodological concerns of their work, presenters will raise some of the critical questions shaping the crossover of information science and health studies, including the engagement of practice and policy sectors and the complex social context of health information and knowledge mobilization."
 location: www.zoomlinkwillbehere.com
 date: 2020-06-26T12:36:37.763Z
 date_end: 2020-06-26T12:37:40.471Z
@@ -11,7 +11,7 @@ publishDate: 2020-06-26T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Author
+  - Eugenia Canas
 tags:
   - ""
 image:
