@@ -21,9 +21,7 @@ publishDate: 2020-06-26T00:54:21.579Z
 draft: false
 featured: false
 authors:
-  - Phil
-  - Roger
-  - Leah
+  - Philippe Mongeon
 tags:
   - test
   - test2
