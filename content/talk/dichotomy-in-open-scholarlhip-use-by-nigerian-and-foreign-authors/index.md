@@ -12,7 +12,6 @@ draft: false
 featured: false
 authors:
   - Toluwase Asubiaro
-  - Alex Mayhew
 tags:
   - "Open Science"
   - "Natural Language Processing"
