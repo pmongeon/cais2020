@@ -11,7 +11,9 @@ publishDate: 2020-06-26T12:36:37.825Z
 draft: false
 featured: false
 authors:
-  - Melissa Seelye, Sara Clarke, Marni Harrington
+  - Melissa Seelye
+  - Sara Clarke
+  - Marni Harrington
 tags:
   - "Scholarly communication"
 image:
