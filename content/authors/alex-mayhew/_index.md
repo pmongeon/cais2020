@@ -8,8 +8,3 @@ user_groups:
   - Authors
 ---
 
-# Bio
-
-Alex is a great guy
-
-
