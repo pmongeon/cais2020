@@ -1,6 +1,6 @@
 ---
 # Display name
-title: CAIS2020
+title: 
 avatar_filename: avatar.png
 
 # Username (this should match the folder name)
