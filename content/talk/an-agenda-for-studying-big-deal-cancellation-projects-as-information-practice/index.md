@@ -18,7 +18,7 @@ all_day: false
 event: "Session #2 - Scholarly Publishing"
 event_url: https/www.cais2020.ca/projects/scholarly-publishing/
 publishDate: 2020-06-26T01:28:13.844Z
-draft: false
+draft: true
 featured: false
 authors:
   - Asen O. Ivanov
