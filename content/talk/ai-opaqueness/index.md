@@ -14,6 +14,12 @@ draft: false
 featured: false
 authors:
   - Victoria L Rubin
+  - Jacquelyn Burkell
+  - Sarah Cornwell
+  - Toluwase Asubario
+  - Yimin Chen
+  - Danica Potts
+  - Chris Brogly
 tags:
   - "Artificial Intelligence"
 image:
