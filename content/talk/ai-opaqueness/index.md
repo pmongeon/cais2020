@@ -26,4 +26,4 @@ image:
   preview_only: false
 ---
 # Links 
-[A publication]({{< ref "/publication/my-page-name/index.md" >}})
+[A publication]({{< ref "/publication/index.md" >}})
