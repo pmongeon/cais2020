@@ -1,8 +1,6 @@
 ---
 title: "AI Opaqueness: What Makes AI Systems More Transparent?"
-abstract: "Artificially Intelligent (AI) systems are pervasive, but poorly understood by their users and, at times, developers. It is often unclear how and why certain algorithms make choices, predictions, or conclusions. What does AI transparency mean? What explanations do AI system users desire?
-
-This panel discusses AI opaqueness with examples in applied context such as natural language processing, people categorization, judicial decision explanations, and system recommendations. We offer insights from interviews with AI system users about their perceptions and developers’ lessons learned. What steps should be taken towards AI transparency and accountability for its decisions?"
+abstract: "Artificially Intelligent (AI) systems are pervasive, but poorly understood by their users and, at times, developers. It is often unclear how and why certain algorithms make choices, predictions, or conclusions. What does AI transparency mean? What explanations do AI system users desire? This panel discusses AI opaqueness with examples in applied context such as natural language processing, people categorization, judicial decision explanations, and system recommendations. We offer insights from interviews with AI system users about their perceptions and developers’ lessons learned. What steps should be taken towards AI transparency and accountability for its decisions?"
 location: www.zoomlinkwillbehere.com
 date: 2020-06-26T12:36:37.763Z
 date_end: 2020-06-26T12:37:40.471Z
@@ -27,3 +25,5 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+# Links 
+[A publication]({{< ref "/publication/my-page-name/index.md" >}})
