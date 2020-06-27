@@ -16,7 +16,7 @@ authors:
   - Victoria L Rubin
   - Jacquelyn Burkell
   - Sarah Cornwell
-  - Toluwase Asubario
+  - Toluwase Asubiaro
   - Yimin Chen
   - Danica Potts
   - Chris Brogly
