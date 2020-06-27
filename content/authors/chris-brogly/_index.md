@@ -1,8 +1,8 @@
 ---
-title: "Victoria L. Rubin"
+title: "Chris Brogly"
 role: Faculty of Information & Media Studies, Western University
-avatar_filename: avatar.jpg
-bio: Victoria L. Rubin is Associate Professor at the Faculty of Information and Media Studies (FIMS) at the University of Western Ontario, the Director of the Language and Information Research Lab (LiT.RL). She broadly specializes in information retrieval and natural language processing techniques, currently working on automated detection of misinformation and disinformation in news.
+avatar_filename: avatar
+bio: Chris Brogly is a Doctoral Student in the Health Information Science program at the University of Western Ontario. He completed his MSc in Computer Science from Western in 2016 and a BCS Co-op from the University of Windsor in 2015. His research interests include health informatics, predictive modelling, decision support systems, and applications of visualization and simulation in healthcare.
 superuser: false
 user_groups:
   - Authors
@@ -10,4 +10,4 @@ user_groups:
 ---
 
 # Bio
-Victoria L. Rubin is Associate Professor at the Faculty of Information and Media Studies (FIMS) at the University of Western Ontario, the Director of the Language and Information Research Lab (LiT.RL). She broadly specializes in information retrieval and natural language processing techniques, currently working on automated detection of misinformation and disinformation in news.
+Chris Brogly is a Doctoral Student in the Health Information Science program at the University of Western Ontario. He completed his MSc in Computer Science from Western in 2016 and a BCS Co-op from the University of Windsor in 2015. His research interests include health informatics, predictive modelling, decision support systems, and applications of visualization and simulation in healthcare.
