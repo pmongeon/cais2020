@@ -25,5 +25,5 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-# Links 
-[A publication]({{< ref "/publication/_index.md" >}})
+### Links 
+[View full paper]({{< ref "/publication/_index.md" >}})
