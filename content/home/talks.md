@@ -25,9 +25,9 @@ subtitle = "Please note that the actual talk dates and times have not yet been s
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
+    tag = true
+    category = true
+    publication_type = false
     author = ""
     exclude_featured = false
     exclude_past = false
