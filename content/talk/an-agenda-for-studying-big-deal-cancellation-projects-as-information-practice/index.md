@@ -21,13 +21,15 @@ publishDate: 2020-06-26T01:28:13.844Z
 draft: false
 featured: false
 authors:
-  - Asen O. Ivanov
-  - Samuel Cassidy
+  - Asen O Ivanov
+  - Samuel Cassady
   - Catherine Johnson
 tags:
-  - collection development
-  - scholarly publishing
-  - big deals
+  - Collection Development
+  - Scholarly Publishing
+  - Big Deals
+categories:
+  - Papers
 projects:
   - "Session #2 - Scholarly publishing"
 image:
