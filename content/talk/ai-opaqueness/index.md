@@ -21,7 +21,7 @@ authors:
 tags:
   - "Artificial Intelligence"
 image:
-  filename: maxime-valcarce-mAj8xn5zXsk-unsplash.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
