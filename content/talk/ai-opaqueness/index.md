@@ -20,6 +20,8 @@ authors:
   - Chris Brogly
 tags:
   - "Artificial Intelligence"
+categories:
+  - Panels
 image:
   filename: featured.jpg
   focal_point: Smart
