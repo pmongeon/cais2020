@@ -26,7 +26,7 @@ subtitle = "Please note that the actual talk dates and times have not yet been s
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = "Papers"
+    category = ""
     publication_type = ""
     author = ""
     exclude_featured = false
@@ -39,7 +39,7 @@ subtitle = "Please note that the actual talk dates and times have not yet been s
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
