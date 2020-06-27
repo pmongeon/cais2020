@@ -21,9 +21,10 @@ authors:
 tags:
   - "Artificial Intelligence"
 image:
-  filename: featured
+  filename: maxime-valcarce-mAj8xn5zXsk-unsplash.jpg
   focal_point: Smart
   preview_only: false
 ---
+
 ### Links 
 [Proceedings]({{< ref "/publication/_index.md" >}})
