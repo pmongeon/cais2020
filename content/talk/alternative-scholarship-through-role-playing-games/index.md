@@ -13,7 +13,7 @@ all_day: false
 event: session
 event_url: session-link
 publishDate: 2020-06-26T12:36:37.825Z
-slides: slides
+slides: ""
 draft: false
 featured: false
 authors:
@@ -27,7 +27,7 @@ tags:
 categories:
   - Panels
 projects:
-  - alternative-scholarship
+  - ""
 image:
   filename: featured
   focal_point: Smart
