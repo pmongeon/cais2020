@@ -1,5 +1,6 @@
 ---
 title: "Aging, every-day information and technology use"
+subtitle: "Panel"
 abstract: "Information and information technology use shows age-related patterns. This presentation outlines a approach of age-related trajectories of how information and technology use surface as challenges during the life-course of individuals based on trajectories of relative exposure to different types of information technologies and information that unfold as real options in everyday-life."
 location: www.zoomlinkwillbehere.com
 date: 2020-06-26T12:36:37.763Z
