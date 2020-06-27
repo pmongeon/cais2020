@@ -26,4 +26,4 @@ image:
   preview_only: false
 ---
 ### Links 
-[View full paper]({{< ref "/publication/_index.md" >}})
+[Proceedings]({{< ref "/publication/_index.md" >}})
