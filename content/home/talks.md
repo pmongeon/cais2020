@@ -24,14 +24,26 @@ subtitle = "Please note that the actual talk dates and times have not yet been s
   order = "asc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
-    exclude_past = false
-    exclude_future = false
+#  [content.filters]
+#    tag = ""
+#    category = ""
+#    publication_type = ""
+#    author = ""
+#    exclude_featured = false
+#    exclude_past = false
+#    exclude_future = false
+    
+ [[content.filter_button]]
+     name = "All"
+     tag = "*"
+  
+  [[content.filter_button]]
+     name = "Artificial Intelligence"
+     category = "Artificial Intelligence"
+  
+   [[content.filter_button]]
+     name = "Scholalry Publishing"
+     category = "Scholalry Publishing"    
     
 [design]
   # Toggle between the various page layout types.
