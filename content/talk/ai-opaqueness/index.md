@@ -1,5 +1,6 @@
 ---
 title: "AI Opaqueness: What Makes AI Systems More Transparent?"
+subtitle: "Panel"
 abstract: Artificially Intelligent (AI) systems are pervasive, but poorly
   understood by their users and, at times, developers. It is often unclear how
   and why certain algorithms make choices, predictions, or conclusions. What
@@ -28,10 +29,10 @@ authors:
   - Chris Brogly
 tags:
   - Artificial Intelligence
-categories:
-  - Panels
-projects:
-  - 1-artificial-intelligence
+# categories:
+#  - Panels
+# projects:
+#  - 1-artificial-intelligence
 image:
   filename: featured.jpg
   focal_point: Smart
