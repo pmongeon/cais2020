@@ -81,23 +81,23 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   author = "authors"
 
 # Related content.
-[related]
-  threshold = 100.0
-  includeNewer = false
-  toLower = false
-
-  [[related.indices]]
-    name = "title"
-    weight = 5.0
-
-  [[related.indices]]
-    name = "summary"
-    weight = 5.0
-
-  [[related.indices]]
-    name = "tags"
-    weight = 80.0
-
-  [[related.indices]]
-    name = "authors"
-    weight = 80.0
+#[related]
+#  threshold = 100.0
+#  includeNewer = false
+#  toLower = false
+#
+#  [[related.indices]]
+#    name = "title"
+#    weight = 5.0
+#
+#  [[related.indices]]
+#    name = "summary"
+#    weight = 5.0
+#
+#  [[related.indices]]
+#    name = "tags"
+#    weight = 80.0
+#
+#  [[related.indices]]
+#    name = "authors"
+#    weight = 80.0
