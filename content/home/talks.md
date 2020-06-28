@@ -43,7 +43,12 @@ subtitle = "Please note that the actual talk dates and times have not yet been s
   
    [[content.filter_button]]
      name = "Scholalry Publishing"
-     category = "Scholalry Publishing"    
+     category = "Scholalry Publishing"   
+     
+  
+   [[content.filter_button]]
+     name = "Papers"
+     category = "Papers"   
     
 [design]
   # Toggle between the various page layout types.
