@@ -12,7 +12,7 @@ subtitle = "Please note that the actual talk dates and times have not yet been s
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -25,7 +25,7 @@ subtitle = "Please note that the actual talk dates and times have not yet been s
 
   # Filter posts by a taxonomy term.
 #  [content.filters]
-#    tag = ""
+#   tag = ""
 #    category = ""
 #    publication_type = ""
 #    author = ""
@@ -36,19 +36,6 @@ subtitle = "Please note that the actual talk dates and times have not yet been s
  [[content.filter_button]]
      name = "All"
      tag = "*"
-  
-  [[content.filter_button]]
-     name = "Artificial Intelligence"
-     category = "Artificial Intelligence"
-  
-   [[content.filter_button]]
-     name = "Scholalry Publishing"
-     category = "Scholalry Publishing"   
-     
-  
-   [[content.filter_button]]
-     name = "Papers"
-     category = "Papers"   
     
 [design]
   # Toggle between the various page layout types.
