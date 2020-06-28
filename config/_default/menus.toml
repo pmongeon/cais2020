@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Sessions"
-  url = "#posts"
+  url = "#sessions"
   weight = 20
 
 [[main]]
@@ -19,9 +19,21 @@
   weight = 30
 
 [[main]]
-  name = "Presenters"
+  name = "Topics"
+  url = "#tags"
+  weight = 35
+
+[[main]]
+  name = "Participants"
   url = "#people"
   weight = 40
+
+
+[[main]]
+  name = "Chairs"
+  url = "#Chairs"
+  weight = 45
+
 
 [[main]]
   name = "Contact"
