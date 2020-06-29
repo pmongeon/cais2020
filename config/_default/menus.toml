@@ -9,19 +9,19 @@
   weight = 10
 
 [[main]]
-  name = "Sessions"
+  name = "Program"
   url = "#sessions"
   weight = 20
 
 [[main]]
-  name = "Presentations"
+  name = "Talks"
   url = "#talks"
   weight = 30
 
 [[main]]
   name = "Topics"
   url = "#tags"
-  weight = 35
+  weight = 25
 
 [[main]]
   name = "Participants"
@@ -30,7 +30,7 @@
 
 
 [[main]]
-  name = "Chairs"
+  name = "Organizers"
   url = "#chairs"
   weight = 45
 
