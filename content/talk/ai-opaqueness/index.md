@@ -40,4 +40,4 @@ image:
 ---
 
 ### Links 
-[Proceedings]({{< ref "/publication/_index.md" >}})
+[Proceedings]({{< ref "#" >}})
