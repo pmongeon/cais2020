@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
-title = ""
-subtitle = ""
+title = "Participants"
+subtitle = "Click on an author to see their bio and their conference contributions"
 
 [content]
   # Choose which groups/teams of users to display.
