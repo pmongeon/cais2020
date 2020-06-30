@@ -26,3 +26,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+### Links
+- [project website](https://sites.google.com/ualberta.ca/inuvialuitvoices/home)
+- [Inuvialuit Digital library](https://inuvialuitdigitallibrary.ca/)
