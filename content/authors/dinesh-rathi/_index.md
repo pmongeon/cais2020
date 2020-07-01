@@ -10,4 +10,4 @@ user_groups:
 ---
 
 # Bio
-"Dinesh Rathi is a faculty member at the School of Library and Information Studies, University of Alberta, Edmonton Canada. My current research interests are in the area of Knowledge Management, Social Media and Emerging Technologies, Open Source Software (OSS), and Digital Libraries."
+Dinesh Rathi is a faculty member at the School of Library and Information Studies, University of Alberta, Edmonton Canada. My current research interests are in the area of Knowledge Management, Social Media and Emerging Technologies, Open Source Software (OSS), and Digital Libraries.
