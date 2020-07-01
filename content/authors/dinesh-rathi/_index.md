@@ -6,7 +6,7 @@ bio: "Dinesh Rathi is a faculty member at the School of Library and Information 
 superuser: false
 user_groups:
   - Presenters
-  - Auhtors
+  - Authors
 ---
 
 # Bio
