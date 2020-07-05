@@ -1,5 +1,5 @@
 ---
-title: Dr. Davin Helkenberg
+title: Davin Helkenberg, Ph.D.
 role: Adjunct faculty, Western University/Reference Librarian, Okanagan Regional
   Library
 avatar_filename: davin_helkenberg_avatar.jpg
