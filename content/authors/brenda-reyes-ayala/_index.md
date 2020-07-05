@@ -1,5 +1,5 @@
 ---
-title: Dr. Brenda Reyes Ayala
+title: Brenda Reyes Ayala, Ph.D.
 role: Assistant Professor, University of Alberta.
 avatar_filename: brenda_reyes_ayala_avatar.jpg
 bio: Brenda Reyes Ayala is an Assistant Professor at the School of Library and
