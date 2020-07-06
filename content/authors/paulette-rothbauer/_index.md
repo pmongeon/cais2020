@@ -1,6 +1,7 @@
 ---
 title: Paulette Rothbauer
-avatar_filename: avatar.jpg
+role: Faculty of Information and Media Studies, Western University
+avatar_filename: paulette_rothbauer_avatar.png
 superuser: false
 user_groups:
   - Presenters
