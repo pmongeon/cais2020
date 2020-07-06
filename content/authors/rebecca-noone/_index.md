@@ -1,6 +1,7 @@
 ---
 title: Rebecca Noone
-avatar_filename: avatar.jpg
+role: Faculty of Information, University of Toronto
+avatar_filename: rebecca_noone_avatar.jpeg
 superuser: false
 user_groups:
   - Presenters
