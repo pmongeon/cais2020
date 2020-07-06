@@ -1,7 +1,7 @@
 ---
-title: Davin Helkenberg, Ph.D.
-role: Adjunct faculty, Western University/Reference Librarian, Okanagan Regional
-  Library
+title: Davin Helkenberg
+role: Faculty of Information & Media Studies, Western University; Reference
+  Librarian, Okanagan Regional Library
 avatar_filename: davin_helkenberg_avatar.jpg
 bio: Dr. Davin Helkenberg is a recent PhD in LIS graduate, adjunct faculty at
   Western University, and Reference Librarian at the Okanagan Regional Library.
