@@ -1,6 +1,6 @@
 ---
 title: Sara Clarke
-role: Faculty of Information and Media Studies, Western University
+role: Faculty of Information & Media Studies, Western University
 avatar_filename: avatar.jpg
 bio: "Sara Clarke is an MLIS candidate in the Faculty of Information and Media
   Studies at Western University and is currently completing a co-op in User
