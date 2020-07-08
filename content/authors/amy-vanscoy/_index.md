@@ -1,6 +1,6 @@
 ---
 title: Amy VanScoy
-role: Associate Professor, Department of Information Science, University of Buffalo
+role: Associate Professor, Department of Information Science, University at Buffalo
 avatar_filename: amy_vanscoy_avatar.jpg
 superuser: false
 ---
