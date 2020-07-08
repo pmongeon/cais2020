@@ -1,6 +1,6 @@
 ---
 title: Alison Harding
-role: Department of Information Science, University of Buffalo
+role: Department of Information Science, University at Buffalo
 avatar_filename: alison_harding_avatar.jpg
 superuser: false
 ---
