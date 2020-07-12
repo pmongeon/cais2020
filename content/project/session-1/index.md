@@ -12,6 +12,12 @@ image:
   preview_only: false
 ---
 
+### About
+
+This session is about artificial intelligence
+
+### Presentations
+
 |Date|Time|presentation|type|location|
 |----|:----:|------------|:--:|--------|
 |2020-09-03|13:00-13:30 ET|Title<br>author 1, author2, author3|Panel|[zoom](link)|
