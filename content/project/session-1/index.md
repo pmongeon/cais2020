@@ -8,7 +8,7 @@ featured: false
 external_link: 
 
 links:
-- name: see full program
+- name: Full conference program
   url: ../program
 url_code: ""
 url_pdf: ""
