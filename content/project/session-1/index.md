@@ -27,7 +27,7 @@ This session is about artificial intelligence
 
 ### Presentations
 
-|Date|Time (ET)|presentation|type|location|
+|Date|Time (ET)|Presentation|Type|Location|
 |----|:----:|------------|:--:|--------|
 |2020-09-03|13:00-13:30 ET|[An Information Governance Methodology to Tackle Digital Recordkeeping Challenges: The Convergence of Artificial Intelligence, Business Analysis and Information Architecture](../../talk/an-information-governance-methodology-to-tackle-digital-recordkeeping-challenges/)<br>Inge Alberts|Paper|[zoom](link)|
 |2020-09-03|13:30-13:50 ET|[AI Governance Systems: Ontological Explorations in the Canadian Context](../../talk/ai-governance-systems/)<br>Robert Blair Frost|Poster|[zoom](link)|
