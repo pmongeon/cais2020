@@ -4,8 +4,8 @@ abstract: "Information Governance is an emerging cross-disciplinary framework to
 
 location: www.zoomlinkwillbehere.com
 
-date: 2020-06-26T12:36:37.763Z
-date_end: 2020-06-26T12:37:40.471Z
+date: 2020-10-12T13:00 ET
+date_end: 2020-10-12T13:30 ET
 
 all_day: false
 
