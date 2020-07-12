@@ -9,7 +9,7 @@ external_link:
 
 links:
 - name: Full conference program
-  url: "../program"
+  url: "../project/full-program/"
 url_code: ""
 url_pdf: ""
 url_slides: ""
