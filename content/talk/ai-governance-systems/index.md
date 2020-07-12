@@ -16,6 +16,10 @@ authors:
   - Robert Blair Frost
 tags:
   - ""
+  
+links:
+  - name: "Session"
+  - url: "../project/session-1"
 image:
   filename: featured
   focal_point: Smart

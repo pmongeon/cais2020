@@ -19,6 +19,11 @@ authors:
   - Yimin Chen
   - Danica Potts
   - Chris Brogly
+  
+links:
+  - name: "Session"
+  - url: "../project/session-1"
+  
 tags:
   - Artificial Intelligence
 # categories:
