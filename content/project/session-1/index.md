@@ -10,11 +10,7 @@ external_link:
 links:
 - name: Full conference program
   url: "../project/full-program/"
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
- 
+
 image:
   filename: featured
   focal_point: Smart
