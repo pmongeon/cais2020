@@ -13,7 +13,7 @@ image:
 ---
 
 ##### [Session #1 - Artificial intelligence](../session-1/)
-|<div style="width:75px">Date</div>|<div style="width:75px">Time (ET)</div>|Presentation|Type|Location|
+|<div style="width:75px">Date</div>|<div style="width:78px">Time (ET)</div>|Presentation|Type|Location|
 |----------|:---------:|------------|:--:|--------|
 |2020-09-03|13:00-13:30|[An Information Governance Methodology to Tackle Digital Recordkeeping Challenges: The Convergence of Artificial Intelligence, Business Analysis and Information Architecture](../../talk/an-information-governance-methodology-to-tackle-digital-recordkeeping-challenges/)<br>Inge Alberts|Paper|[zoom](link)|
 |2020-09-03|13:30-13:50|[AI Governance Systems: Ontological Explorations in the Canadian Context](../../talk/ai-governance-systems/)<br>Robert Blair Frost|Poster|[zoom](link)|
