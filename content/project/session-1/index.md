@@ -1,8 +1,8 @@
 ---
 title: "session #1 - Artificial Intelligence"
-subtitle: "01/09/2020 : 13:00-15:00 ET"
+subtitle: "01/09/2020 : 13:00-15:30 ET"
 date: 01/09/2020T013:00
-summary: This is the summary
+summary:
 draft: false
 featured: false
 external_link: 
