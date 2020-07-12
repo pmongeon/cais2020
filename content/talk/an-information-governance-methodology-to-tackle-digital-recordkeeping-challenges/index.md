@@ -16,6 +16,10 @@ authors:
 links:
   - name: Session
     url: "../project/session-1"
+    url_code: "code"
+    url_pdf: "pdf"
+    url_slides: "slide"
+    url_video: "recording"
   
 tags:
   - ""
