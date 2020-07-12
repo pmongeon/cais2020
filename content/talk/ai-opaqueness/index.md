@@ -21,8 +21,8 @@ authors:
   - Chris Brogly
   
 links:
-  - name: "Session"
-  - url: "../project/session-1"
+  - name: Session
+    url: "../project/session-1"
   
 tags:
   - Artificial Intelligence

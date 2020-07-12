@@ -14,8 +14,8 @@ authors:
   - Inge Alberts
   
 links:
-  - name: "Session"
-  - url: "../project/session-1"
+  - name: Session
+    url: "../project/session-1"
   
 tags:
   - ""
