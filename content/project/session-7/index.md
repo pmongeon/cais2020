@@ -1,19 +1,14 @@
 ---
-title: "Session #8 - Scholarly Publishing"
-subtitle: "15/10/2020 : 13:00-15:00 ET"
-date: 06/10/2020T013:00
+title: "Session #7 - Scholarly Publishing"
+subtitle: "06/10/2020 : 13:00-15:45 ET"
+date: 2020-10-06T13:00:00.488Z
+
 summary: 
 draft: false
-featured: false
-external_link: 
 
 links:
 - name: Full conference program
   url: "../project/full-program/"
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
  
 image:
   filename: featured
