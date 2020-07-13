@@ -14,6 +14,15 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+
+authors:
+  - Rynnelle Wiebe
+  - Dinesh Rathi
+  - Martin Nord
+  - Robyn E Stobbs
+  - Sharon Farnel
+  - Beverly Amos
+  - Ali Shiri
  
 image:
   filename: featured
