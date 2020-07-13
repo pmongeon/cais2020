@@ -11,6 +11,17 @@ links:
 - name: Full conference program
   url: "../project/full-program/"
 
+authors:
+  - Inge Alberts
+  - Robert Blair Frost
+  - Victoria L Rubin
+  - Jacquelyn Burkell
+  - Sarah E. Cornwell
+  - Toluwase Asubiaro
+  - Yimin Chen
+  - Danica Potts
+  - Chris Brogly
+
 image:
   filename: featured
   focal_point: Smart
