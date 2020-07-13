@@ -1,8 +1,8 @@
 ---
-title: "session #8 - Scholarly Publishing"
+title: "Session #8 - Scholarly Publishing"
 subtitle: "15/10/2020 : 13:00-15:00 ET"
-date: 01/09/2020T013:00
-summary: This is the summary
+date: 06/10/2020T013:00
+summary: 
 draft: false
 featured: false
 external_link: 
