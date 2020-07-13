@@ -15,6 +15,11 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
  
+authors:
+  - Asen O. Ivanov
+  - Samuel Cassady
+  - Catherine Johnson
+
 image:
   filename: featured
   focal_point: Smart
