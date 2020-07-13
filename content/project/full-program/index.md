@@ -19,6 +19,13 @@ image:
 |2020-09-03|13:30-13:50|[AI Governance Systems: Ontological Explorations in the Canadian Context](../../talk/ai-governance-systems/)<br>Robert Blair Frost|Poster|[zoom](link)|
 |2020-09-03|14:00-15:30|[AI Opaqueness: What Makes AI Systems More Transparent?](../../talk/ai-opaqueness/)<br>Victoria L Rubin, Jacquelyn Burkell, Sarah E. Cornwell, Toluwase Asubiaro, Yimin Chen, Danica Potts, Chris Brogly|Panel|[zoom](link)|
 
+##### [Session #5 - Health Information Science](../session-5/)
+
+|<div style="width:75px">Date</div>|<div style="width:78px">Time (ET)</div>|Presentation|Type|Location|
+|----------|:---------:|------------|:--:|--------|
+|2020-09-17|13:30-15:00|[Health Information Science: Perspectives on a discipline in development](../../talk/health-information-science/)<br>Eugenia Canas|Panel|[zoom](link)|
+
+
 ##### [Session #7 - Decolonization and Indigenous Information](../session-7/)
 
 |<div style="width:75px">Date</div>|<div style="width:78px">Time (ET)</div>|Presentation|Type|Location|
