@@ -27,7 +27,7 @@ This session is about scholarly publishing
 
 ### Presentations
 
-|Date|Time (ET)|Presentation|Type|Location|
+|<div style="width:75px">Date</div>|<div style="width:78px">Time (ET)</div>|Presentation|Type|Location|
 |----------|:---------:|------------|:--:|--------|
 |2020-10-10|13:00-13:30|[An Agenda for Studying Big Deal Cancellation Projects as Information Practice](../../talk/an-agenda-for-studying-big-deal-cancellation-projects-as-information-practice/)<br>Asen O. Ivanov, Samuel Cassady, Catherine Johnson|Paper|[zoom](link)|
 |2020-10-10|13:30-15:00|[Perspectives on academic publishing](../../talk/perspectives-on-academic-publishing/)<br>Samuel Cassady, Asen O. Ivanov, Catherine Johnson|Panel|[zoom](link)|
