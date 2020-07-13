@@ -8,10 +8,6 @@ draft: false
 links:
 - name: Full conference program
   url: "../project/full-program/"
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
  
 image:
   filename: featured
