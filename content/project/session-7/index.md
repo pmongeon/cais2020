@@ -23,6 +23,7 @@ authors:
   - Sharon Farnel
   - Beverly Amos
   - Ali Shiri
+  - Sabrina Redwing Saunders
  
 image:
   filename: featured
