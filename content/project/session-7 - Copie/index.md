@@ -14,6 +14,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  
 ---
 
 ### About
