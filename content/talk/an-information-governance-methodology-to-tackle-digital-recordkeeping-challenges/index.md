@@ -4,13 +4,13 @@ abstract: "Information Governance is an emerging cross-disciplinary framework to
 
 location: www.zoomlinkwillbehere.com
 
-date: 2020-10-12T13:00:00.763Z
-date_end: 2020-10-12T13:30:00.471Z
+date: 2020-09-03T13:00:00.763Z
+date_end: 2020-09-03T13:30:00.471Z
 
 all_day: false
 
-event: session
-event_url: session-link
+event: "Session #1 - Artificial Intelligence"
+event_url: "../project/session-1"
 
 publishDate: 2020-06-26T12:36:37.825Z
 draft: false
@@ -22,11 +22,9 @@ authors:
 links:
   - name: Session
     url: "../project/session-1"
-  - name: PDF
+  - name: Full-txt
     url: "#"
   - name: Slides
-    url: "#"
-  - name: Recording
     url: "#"
   
 tags:

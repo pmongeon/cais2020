@@ -26,13 +26,14 @@ authors:
 links:
   - name: Session
     url: "../project/session-1"
+  - name: Full-text
+    url: "#"
+  - name: Slides
+    url: "#"
   
 tags:
   - Artificial Intelligence
-# categories:
-#  - Panels
-# projects:
-#  - 1-artificial-intelligence
+
 image:
   filename: featured.jpg
   focal_point: Smart
