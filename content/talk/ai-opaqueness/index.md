@@ -40,6 +40,3 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-
-### Links 
-[Proceedings]({{< ref "#" >}})
