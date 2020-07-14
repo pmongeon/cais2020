@@ -10,10 +10,13 @@ date_end: 2020-09-03T15:30:40.471Z
 all_day: false
 
 event: "Session #1 - Artificial Intelligence"
-event_url: "../project/session-1"
+# event_url: "../project/session-1"
+
 publishDate: 2020-06-26T12:36:37.825Z   
+
 draft: false
 featured: false
+
 authors:
   - Victoria L Rubin
   - Jacquelyn Burkell

@@ -11,7 +11,7 @@ date_end: 2020-09-03T13:50:40.471Z
 all_day: false
 
 event: "session #1 - Artificial Intelligence"
-event_url: ../project/session-1
+# event_url: ../project/session-1
 
 publishDate: 2020-06-26T12:36:37.825Z
 
