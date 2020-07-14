@@ -5,7 +5,7 @@ abstract: Artificially Intelligent (AI) systems are pervasive, but poorly unders
 
 location: 
   - name: Zoom
-    url: "uwww.zoomlinkwillbehere.com"
+    url: "www.zoomlinkwillbehere.com"
 
 date: 2020-09-03T14:00:00.763Z
 date_end: 2020-09-03T15:30:40.471Z
