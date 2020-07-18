@@ -17,9 +17,9 @@ image:
 |<div style="width:75px">Date</div>|<div style="width:78px">Time (ET)</div>|Presentation|Type|Location|
 |----------|-----------|------------|:--:|--------|
 |2020-08-28|13:00-13:30|[Encouraging Convergence of Information Behaviour Theory](../../talk/encouraging-convergence-of-information-behaviour-theory-and-information-services-education/)<br>Amy Van Scoy, Heidi Julien and Alison Harding|Paper|[zoom](link)|
-|2020-08-28|13:30-13:50|[Forked times: documenting “ordinary time” in everyday life](../../talk/forked-times-documenting-ordinary-time-in-everyday-life/)<br>Pam McKenzie|Paper|[zoom](link)|
+|2020-08-28|13:30-14:00|[Forked times: documenting “ordinary time” in everyday life](../../talk/forked-times-documenting-ordinary-time-in-everyday-life/)<br>Pam McKenzie|Paper|[zoom](link)|
 
-##### [Session #1 - Online Data and Archives](../information-behavior/)
+##### [Session #1 - Online Data and Archives](../online-data-and-archives/)
 
 |<div style="width:75px">Date</div>|<div style="width:78px">Time (ET)</div>|Presentation|Type|Location|
 |----------|-----------|------------|:--:|--------|
@@ -33,6 +33,20 @@ image:
 |2020-09-03|13:30-13:50|[AI Governance Systems: Ontological Explorations in the Canadian Context](../../talk/ai-governance-systems/)<br>Robert Blair Frost|Poster|[zoom](link)|
 |2020-09-03|14:00-15:30|[AI Opaqueness: What Makes AI Systems More Transparent?](../../talk/ai-opaqueness/)<br>Victoria L Rubin, Jacquelyn Burkell, Sarah E. Cornwell, Toluwase Asubiaro, Yimin Chen, Danica Potts, Chris Brogly|Panel|[zoom](link)|
 
+##### [Session #5 - Understanding Information Literacy](../understanding-information-literacy/)
+
+|<div style="width:75px">Date</div>|<div style="width:78px">Time (ET)</div>|Presentation|Type|Location|
+|----------|-----------|------------|:--:|--------|
+|2020-09-07|13:00-13:30|[Connecting Theory and Practice: Implications of Coherence Theory in the Fight Against Fake News](../../talk/connecting-theory-and-practice/)<br>Mike Chee|Poster|[zoom](link)|
+
+##### [Session #5 - Everyday Life Information-Seeking](../everyday-life-information-seeking/)
+
+|<div style="width:75px">Date</div>|<div style="width:78px">Time (ET)</div>|Presentation|Type|Location|
+|----------|-----------|------------|:--:|--------|
+|2020-09-09|13:00-13:30|[The Everyday Information Experience of Street-Level Wayfinding: A Critical Look](../../talk/the-everyday-information-experience-of-street-level-wayfinding/)<br>Rebecca Noone|Paper|[zoom](link)|
+|2020-09-09|13:30-14:00|[You made a great mistake…you left the \[your\] job and moved to Canada”: A study on the information experiences of Bangladeshi immigrants in Canada](../../talk/you-made-a-great-mistake/)<br>Nafiz Zaman Shuva, Paulette Rothbauer|Paper|[zoom](link)|
+
+
 ##### [Session #5 - Health Information Science](../session-5/)
 
 |<div style="width:75px">Date</div>|<div style="width:78px">Time (ET)</div>|Presentation|Type|Location|
@@ -40,12 +54,13 @@ image:
 |2020-09-17|13:30-15:00|[Health Information Science: Perspectives on a discipline in development](../../talk/health-information-science/)<br>Eugenia Canas|Panel|[zoom](link)|
 
 
+
 ##### [Session #6 - Scholarly Communication in LIS](../scholarly-communication-lis/)
 
 |<div style="width:75px">Date</div>|<div style="width:78px">Time (ET)</div>|Presentation|Type|Location|
 |----------|-----------|------------|:--:|--------|
 |2020-09-28|13:00-13:30|[Facilitating Student Co-Authored Papers in LIS Education Research: A Case Study from the LIS Classroom](../../talk/facilitating-student-authored-papers-in-lis-education-research/)<br>Davin L. Helkenberg|Paper|[zoom](link)|
-|2020-09-28|13:30-13:50|[Reimagining Scholarly Communication through Experiential Learning: Merging Theory and Practice for MLIS Students](../../talk/reimagining-scholarly-communication-through-experimental-learning/)<br>Sara Clarke, Marni Harrington, Melissa Seelye|Paper|[zoom](link)|
+|2020-09-28|13:30-14:00|[Reimagining Scholarly Communication through Experiential Learning: Merging Theory and Practice for MLIS Students](../../talk/reimagining-scholarly-communication-through-experimental-learning/)<br>Sara Clarke, Marni Harrington, Melissa Seelye|Paper|[zoom](link)|
 
 
 ##### [Session #7 - Decolonization and Indigenous Information](../session-7/)
