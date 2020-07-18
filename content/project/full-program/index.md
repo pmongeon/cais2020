@@ -12,11 +12,18 @@ image:
   preview_only: false
 ---
 
-##### [Session #1 - Information Behaviour](../session-1/)
+##### [Session #1 - Information Behaviour](../information-behavior/)
+
 |<div style="width:75px">Date</div>|<div style="width:78px">Time (ET)</div>|Presentation|Type|Location|
 |----------|-----------|------------|:--:|--------|
-|2020-08-24|13:00-13:30|[Encouraging Convergence of Information Behaviour Theory](../../talk/encouraging-convergence-of-information-behaviour-theory-and-information-services-education/)<br>Amy Van Scoy, Heidi Julien and Alison Harding|Paper|[zoom](link)|
-|2020-09-03|13:30-13:50|[Forked times: documenting “ordinary time” in everyday life](../../talk/ai-governance-systems/)<br>Pam McKenzie|Paper|[zoom](link)|
+|2020-08-28|13:00-13:30|[Encouraging Convergence of Information Behaviour Theory](../../talk/encouraging-convergence-of-information-behaviour-theory-and-information-services-education/)<br>Amy Van Scoy, Heidi Julien and Alison Harding|Paper|[zoom](link)|
+|2020-08-28|13:30-13:50|[Forked times: documenting “ordinary time” in everyday life](../../talk/forked-times-documenting-ordinary-time-in-everyday-life/)<br>Pam McKenzie|Paper|[zoom](link)|
+
+##### [Session #1 - Online Data and Archives](../information-behavior/)
+
+|<div style="width:75px">Date</div>|<div style="width:78px">Time (ET)</div>|Presentation|Type|Location|
+|----------|-----------|------------|:--:|--------|
+|2020-09-01|13:00-13:30|[Quality matters: A new approach for detecting quality problems in web archives ](../../talk/quality-matters/)<br>Brenda Reyes Ayala, Jennifer McDevitt, James Sun, Xiaohui Liu |Paper|[zoom](link)|
 
 
 ##### [Session #1 - Artificial intelligence](../session-1/)
@@ -31,6 +38,14 @@ image:
 |<div style="width:75px">Date</div>|<div style="width:78px">Time (ET)</div>|Presentation|Type|Location|
 |----------|:---------:|------------|:--:|--------|
 |2020-09-17|13:30-15:00|[Health Information Science: Perspectives on a discipline in development](../../talk/health-information-science/)<br>Eugenia Canas|Panel|[zoom](link)|
+
+
+##### [Session #6 - Scholarly Communication in LIS](../scholarly-communication-lis/)
+
+|<div style="width:75px">Date</div>|<div style="width:78px">Time (ET)</div>|Presentation|Type|Location|
+|----------|-----------|------------|:--:|--------|
+|2020-09-28|13:00-13:30|[Facilitating Student Co-Authored Papers in LIS Education Research: A Case Study from the LIS Classroom](../../talk/facilitating-student-authored-papers-in-lis-education-research/)<br>Davin L. Helkenberg|Paper|[zoom](link)|
+|2020-09-28|13:30-13:50|[Reimagining Scholarly Communication through Experiential Learning: Merging Theory and Practice for MLIS Students](../../talk/reimagining-scholarly-communication-through-experimental-learning/)<br>Sara Clarke, Marni Harrington, Melissa Seelye|Paper|[zoom](link)|
 
 
 ##### [Session #7 - Decolonization and Indigenous Information](../session-7/)
