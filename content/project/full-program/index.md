@@ -12,6 +12,13 @@ image:
   preview_only: false
 ---
 
+##### [Session #1 - Information Behaviour](../session-1/)
+|<div style="width:75px">Date</div>|<div style="width:78px">Time (ET)</div>|Presentation|Type|Location|
+|----------|-----------|------------|:--:|--------|
+|2020-08-24|13:00-13:30|[Encouraging Convergence of Information Behaviour Theory](../../talk/encouraging-convergence-of-information-behaviour-theory-and-information-services-education/)<br>Amy Van Scoy, Heidi Julien and Alison Harding|Paper|[zoom](link)|
+|2020-09-03|13:30-13:50|[Forked times: documenting “ordinary time” in everyday life](../../talk/ai-governance-systems/)<br>Pam McKenzie|Paper|[zoom](link)|
+
+
 ##### [Session #1 - Artificial intelligence](../session-1/)
 |<div style="width:75px">Date</div>|<div style="width:78px">Time (ET)</div>|Presentation|Type|Location|
 |----------|-----------|------------|:--:|--------|
