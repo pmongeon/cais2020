@@ -1,8 +1,12 @@
 ---
 title: Brian Detlor
-avatar_filename: avatar.jpg
+role: DeGroote School of Business, McMaster University
+avatar_filename: Brian-Detlor.jpg
 superuser: false
 user_groups:
   - Presenters
   - Authors
 ---
+# Bio
+
+Brian Detlor is Professor and Area Chair (Information Systems) at the DeGroote School of Business at McMaster University. Recent research interests pertain to digital literacy and digital storytelling.
