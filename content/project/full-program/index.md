@@ -16,7 +16,7 @@ image:
 
 |<div style="width:75px">Date</div>|<div style="width:78px">Time (ET)</div>|Presentation|Type|Location|
 |----------|-----------|------------|:--:|--------|
-|2020-08-28|13:00-13:30|[Encouraging Convergence of Information Behaviour Theory](../../talk/encouraging-convergence-of-information-behaviour-theory-and-information-services-education/)<br>Amy Van Scoy, Heidi Julien and Alison Harding|Paper|[zoom](link)|
+|2020-08-28|13:00-13:30|[Encouraging Convergence of Information Behaviour Theory](../../talk/encouraging-convergence-of-information-behaviour-theory-and-information-services-education/)     <br>Amy Van Scoy, Heidi Julien and Alison Harding|Paper|[zoom](link)|
 |2020-08-28|13:30-14:00|[Forked times: documenting “ordinary time” in everyday life](../../talk/forked-times-documenting-ordinary-time-in-everyday-life/)<br>Pam McKenzie|Paper|[zoom](link)|
 
 ##### [Session #1 - Online Data and Archives](../online-data-and-archives/)
