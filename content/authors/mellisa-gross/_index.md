@@ -1,7 +1,11 @@
 ---
-title: Mellisa Gross
-avatar_filename: avatar.jpg
+title: Melissa Gross
+role: School of Information, Florida State University
+avatar_filename: Melissa Gross.jpg
 superuser: false
 user_groups:
   - Authors
 ---
+# Bio
+
+Melissa Gross is a professor in the School of Information at Florida State University. Her areas of interest are information seeking behavior, resources for youth; research methods, information literacy, and teacher and librarian collaboration. She is co-editor of _The Information Literacy Framework: Case Studies of Successful Implementation_ (Rowman & Littlefield, 2020).
