@@ -1,6 +1,6 @@
 ---
-title: Roger Chabot (Kelsang Legden)
-role: Faculty of Information & Media Studies, Western University
+title: Roger Chabot
+role: Western Libraries, Western University
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
