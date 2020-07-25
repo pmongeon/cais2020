@@ -1,8 +1,13 @@
 ---
 title: Sadaf Zia
-avatar_filename: avatar.jpg
+role: Mississauga Library System
+avatar_filename: szia.png
+bio: Sadaf Zia is a recent graduate of the Master of Library and Information Science program at Western University. She holds an undergraduate degree from the University of Toronto, where she double majored in Political Science and Philosophy. She is currently working as a branch supervisor for the Mississauga Library System.
 superuser: false
 user_groups:
   - Presenters
   - Authors
 ---
+# Bio
+
+Sadaf Zia is a recent graduate of the Master of Library and Information Science program at Western University. She holds an undergraduate degree from the University of Toronto, where she double majored in Political Science and Philosophy. She is currently working as a branch supervisor for the Mississauga Library System.
