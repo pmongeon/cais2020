@@ -16,7 +16,7 @@ event: "Session #7 - Decolonization and Indigenous Information"
 # event_url: session-link
 
 publishDate: 2020-06-26T12:36:37.825Z
-draft: false
+draft: true
 featured: false
 
 authors:
