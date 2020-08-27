@@ -9,13 +9,18 @@ abstract: This paper describes the process and tools used to facilitate a
   publishable quality student co-authored papers as an in-class activity using
   online collaborative teaching tools. It is especially relevant to courses or
   projects that include social justice topics.
-location: www.zoomlinkwillbehere.com
-date: 2020-06-26T12:36:37.763Z
-date_end: 2020-06-26T12:37:40.471Z
+
+location: https://zoom.us/j/97904362576
+
+date: 2020-06-28T13:00:37.763Z
+date_end: 2020-09-28T13:30:40.471Z
 all_day: false
-event: session
-event_url: session-link
-publishDate: 2020-06-26T12:36:37.825Z
+
+event: LIS career development
+# event_url: session-link
+
+publishDate: 2020-01-28T13:00:37.825Z
+
 draft: false
 featured: false
 authors:
