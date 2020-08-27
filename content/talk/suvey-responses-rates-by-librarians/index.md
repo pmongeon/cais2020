@@ -7,7 +7,7 @@ date_end: 2020-09-07T14:30:40.471Z
 all_day: false
 event: Cognitive Authority
 # event_url: session-link
-publishDate: 2020-01-07T12:36:37.825Z
+publishDate: 2020-06-26T12:36:37.825Z
 draft: false
 featured: false
 authors:
