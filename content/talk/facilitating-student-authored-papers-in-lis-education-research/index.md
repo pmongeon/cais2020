@@ -12,11 +12,11 @@ abstract: This paper describes the process and tools used to facilitate a
 
 location: https://zoom.us/j/97904362576
 
-date: 2020-06-28T13:00:37.763Z
+date: 2020-09-28T13:00:37.763Z
 date_end: 2020-09-28T13:30:40.471Z
 all_day: false
 
-event: LIS career development
+event: LIS Career Development
 # event_url: session-link
 
 publishDate: 2020-01-28T13:00:37.825Z
