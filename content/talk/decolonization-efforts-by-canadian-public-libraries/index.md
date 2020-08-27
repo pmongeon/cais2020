@@ -31,7 +31,7 @@ links:
 #  - name: Slides
 #    url: "#"
   - name: Zoom meeting
-  - url: "https://zoom.us/j/97680430963"
+    url: "https://zoom.us/j/97680430963"
 
 
 image:
