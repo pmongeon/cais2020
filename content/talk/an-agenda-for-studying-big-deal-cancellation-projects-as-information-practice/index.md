@@ -12,7 +12,7 @@ all_day: false
 event: "Session #2 - Scholarly Publishing"
 # event_url: https/www.cais2020.ca/projects/scholarly-publishing/
 
-publishDate: 2020-02-14T01:28:13.844Z
+publishDate: 2020-03-14T01:28:13.844Z
 draft: false
 featured: false
 
