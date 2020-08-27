@@ -7,13 +7,13 @@ analysis of social, or collective, relations. As such, love provides a distincti
 and power dynamics that can illuminate and address divergent challenges within LIS and the
 world at large. This paper draws on selected literature in order to present such an analysis for the
 first time."
-location: https://zoom.us/j/96387855788
-date: 2020-10-12T13:00:37.763Z
-date_end: 2020-10-12T13:30:40.471Z
+location: www.zoomlinkwillbehere.com
+date: 2020-06-26T12:36:37.763Z
+date_end: 2020-06-26T12:37:40.471Z
 all_day: false
-event: Love and Compassion
-# event_url: session-link
-publishDate: 2020-02-12T13:00:37.825Z
+event: session
+event_url: session-link
+publishDate: 2020-06-26T12:36:37.825Z
 draft: false
 featured: false
 authors:
