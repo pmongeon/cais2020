@@ -4,13 +4,13 @@ abstract: "As artificial intelligence systems (AIS) become widely adopted around
 
 My poster depicts findings from an in-progress research project in which I am developing an archetypical ontology for AI governance systems. So far, the project has involved three phases: a comparative analysis of the AI innovation strategies of Canada and China; a literature review of AI ethics frameworks from several industry, government, and multistakeholder sources; and a meta-theoretical analysis of various theoretical perspectives from the literatures on service science, public governance, and institutional theory. My poster synthesizes some of the most significant findings from across these three phases into a preliminary ontology of AI governance systems that characterizes AI governance as a tripartite practice of AI innovation governance, AI service governance, and organizational-institutional governance. The poster illustrates the ontological similarities and differences between AI innovation systems, AI service systems, and organizational-institutional systems, highlighting how the components of these various system ontologies interconnect as components of a functionally distinct AI governance system. The poster also applies this preliminary AI governance system ontology to an analysis of the Canadian AI governance system, describing AI governance in the Canadian context as dependent upon a multicentric network of deliberative actors to implement the institutional changes needed to sustain Canada’s leadership in AI research, achieve national AI innovation and talent recruitment goals, expand Canada’s AI service ecosystem, and position Canada as a global authority on AI ethics, AI policy, and AI standards. My poster describes future directions for this research project, including the continued refinement of an AI governance system ontology through comparative analyses of additional national, international, and multinational-corporate AI governance systems, as well as by extending the ontology into an evaluation framework through an in-depth multi-case study of AI governance practices in organizations of different sizes and in different sectors."
 
-location: www.zoomlinkwillbehere.com
+location: https://zoom.us/j/94848564567
 
-date: 2020-09-03T13:30:00.763Z
-date_end: 2020-09-03T13:50:40.471Z
+date: 2020-10-22T13:30:00.763Z
+date_end: 2020-10-22T13:45:00.471Z
 all_day: false
 
-event: "session #1 - Artificial Intelligence"
+event: "CAIS2020 - Artificial Intelligence Session"
 # event_url: ../project/session-1
 
 publishDate: 2020-06-26T12:36:37.825Z
