@@ -13,7 +13,7 @@ all_day: false
 event: "CAIS2020 - Artificial Intelligence Session"
 # event_url: ../project/session-1
 
-publishDate: 2020-10-22T13:30:37.825Z
+publishDate: 2020-02-22T13:30:37.825Z
 
 draft: false
 featured: false

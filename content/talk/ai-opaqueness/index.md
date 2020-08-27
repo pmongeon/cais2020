@@ -12,7 +12,7 @@ all_day: false
 event: "Session #1 - Artificial Intelligence"
 # event_url: "../project/session-1"
 
-publishDate: 2020-10-22T14:00:37.825Z   
+publishDate: 2020-02-22T14:00:37.825Z   
 
 draft: false
 featured: false
