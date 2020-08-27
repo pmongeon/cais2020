@@ -27,14 +27,12 @@ tags:
   - Big Deals
 
 links:
-  - name: Session
-    url: "../project/session-8"
-  - name: Full-text
-    url: "#"
-  - name: Slides
-    url: "#"
-  - name: Zoom meeting
-    url: "https://zoom.us/j/91210040406"
+#  - name: Session
+#    url: "../project/session-8"
+#  - name: Full-text
+#    url: "#"
+#  - name: Slides
+#    url: "#"
   
 image:
   filename: featured

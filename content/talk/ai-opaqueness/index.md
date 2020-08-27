@@ -27,12 +27,12 @@ authors:
   - Chris Brogly
   
 links:
-  - name: Session
-    url: "../project/session-1"
-  - name: Full-text
-    url: "#"
-  - name: Slides
-    url: "#"
+#  - name: Session
+#    url: "../project/session-1"
+#  - name: Full-text
+#    url: "#"
+#  - name: Slides
+#    url: "#"
   
 tags:
   - Artificial Intelligence

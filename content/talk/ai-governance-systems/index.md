@@ -25,12 +25,12 @@ tags:
   - "Artificial Intelligence"
   
 links:
-  - name: Session
-    url: "../project/session-1"
-  - name: Full-text
-    url: "#"
-  - name: Slides
-    url: "#"
+#  - name: Session
+#    url: "../project/session-1"
+#  - name: Full-text
+#    url: "#"
+#  - name: Slides
+#    url: "#"
     
 image:
   filename: featured

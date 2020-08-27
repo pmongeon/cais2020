@@ -20,12 +20,12 @@ authors:
   - Inge Alberts
   
 links:
-  - name: Session
-    url: "../project/session-1"
-  - name: Full-txt
-    url: "#"
-  - name: Slides
-    url: "#"
+#  - name: Session
+#    url: "../project/session-1"
+#  - name: Full-txt
+#    url: "#"
+#  - name: Slides
+#    url: "#"
   
 tags:
   - "Artificial Intelligence"
