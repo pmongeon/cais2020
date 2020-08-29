@@ -225,7 +225,7 @@ collections:
               - {label: "Brand", value: "fab"}
               - {label: "Academic", value: "ai"}
           - {label: "Icon (see https://sourcethemes.com/academic/docs/page-builder/#icons)", name: icon, widget: string, required: false}
-      - {label: "Session", name: "event", widget: "string"}
+      - {label: "Session", name: "session", widget: "string"}
       - {label: "Event link", name: "event_url", widget: "string"}
       - {label: "Publish this page on", name: "publishDate", widget: "datetime"}
       - {label: "Markdown slides (reference a deck in 'content/slides/')", name: "slides", widget: "string", required: false}
