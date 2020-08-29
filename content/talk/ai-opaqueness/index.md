@@ -5,8 +5,8 @@ abstract: Artificially Intelligent (AI) systems are pervasive, but poorly unders
 
 location: https://zoom.us/j/94848564567
 
-date: 2020-10-22T14:00:00.763Z
-date_end: 2020-10-22T15:30:00.471Z
+date: 2020-10-22T14:00:00
+date_end: 2020-10-22T15:30:00
 all_day: false
 
 event: "Session #1 - Artificial Intelligence"
