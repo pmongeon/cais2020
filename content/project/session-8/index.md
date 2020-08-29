@@ -3,7 +3,7 @@ title: "Session #8 - Scholarly Publishing"
 subtitle: "15/10/2020 : 13:00-15:00 ET"
 date: 06/10/2020T013:00
 summary: 
-draft: false
+draft: true
 featured: false
 external_link: 
 

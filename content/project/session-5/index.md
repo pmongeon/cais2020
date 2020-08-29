@@ -3,7 +3,7 @@ title: "Session #6 - Health Information Science"
 subtitle: "17/09/2020 : 13:30-15:00 ET"
 date: 17/09/2020T013:30
 summary: 
-draft: false
+draft: true
 featured: false
 external_link: 
 

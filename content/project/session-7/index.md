@@ -3,7 +3,7 @@ title: "Session #7 - Decolonization and Indigenous Information"
 subtitle: "06/10/2020 : 13:00-15:45 ET"
 date: 06/10/2020T013:00
 summary: 
-draft: false
+draft: true
 featured: false
 external_link: 
 
