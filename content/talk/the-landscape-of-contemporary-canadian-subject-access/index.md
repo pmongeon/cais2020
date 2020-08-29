@@ -8,7 +8,7 @@ all_day: false
 event: Knowledge Organization
 # event_url: session-link
 publishDate: 2020-06-26T12:36:37.825Z
-draft: false
+draft: true
 featured: false
 authors:
   - Amber Dierking

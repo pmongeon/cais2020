@@ -8,7 +8,7 @@ all_day: false
 event: Information Behavior
 # event_url: session-link
 publishDate: 2020-01-01T13:00:37.825Z
-draft: false
+draft: true
 featured: false
 authors:
   - Amy VanScoy

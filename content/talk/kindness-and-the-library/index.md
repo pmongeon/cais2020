@@ -8,7 +8,7 @@ all_day: false
 event: Love and compassion
 # event_url: session-link
 publishDate: 2020-02-12T14:00:37.825Z
-draft: false
+draft: true
 featured: false
 authors:
   - Heather Hill

@@ -17,7 +17,7 @@ event: Scholarlship
 # event_url: session-link
 publishDate: 2020-02-09T13:00:37.825Z
 slides: ""
-draft: false
+draft: true
 featured: false
 authors:
   - Arielle VanderSchans

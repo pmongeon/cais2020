@@ -13,7 +13,7 @@ event: Knowledge Organization
 
 publishDate: 2020-01-21T12:36:37.825Z
 
-draft: false
+draft: true
 featured: false
 
 authors:

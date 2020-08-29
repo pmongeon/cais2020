@@ -9,7 +9,7 @@ all_day: false
 event: Public Libraries
 # event_url: https://cais2020.ca/projects/public-libraries
 publishDate: 2020-06-26T12:32:06.125Z
-draft: false
+draft: true
 featured: false
 authors:
   - Pam McKenzie
