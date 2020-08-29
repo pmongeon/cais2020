@@ -5,7 +5,7 @@ location: https://zoom.us/j/97927336399
 date: 2020-09-30T13:30:37.763Z
 date_end: 2020-09-30T13:45:40.471Z
 all_day: false
-event: International Perspectives
+# eventInternational Perspectives
 # event_url: https://cais2020.ca/
 publishDate: 2020-01-30T13:30:37.825Z
 draft: false

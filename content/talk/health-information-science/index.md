@@ -8,7 +8,7 @@ date: 2020-10-16T13:00:00.763Z
 date_end: 2020-10-16T14:30:00.471Z
 all_day: false
 
-event: "Session #5 - Health Information Science"
+# event"Session #5 - Health Information Science"
 # event_url: "../../project/session-5"
 
 publishDate: 2020-02-07T12:36:37.825Z

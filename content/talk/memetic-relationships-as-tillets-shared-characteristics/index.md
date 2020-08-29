@@ -5,7 +5,7 @@ location: https://zoom.us/j/96338173535
 date: 2020-09-21T14:00:37.763Z
 date_end: 2020-09-21T14:30:40.471Z
 all_day: false
-event: Knowledge Organization
+# eventKnowledge Organization
 # event_url: session-link
 publishDate: 2020-01-21T14:00:37.825Z
 draft: false

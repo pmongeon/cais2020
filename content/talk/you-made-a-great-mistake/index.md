@@ -9,7 +9,7 @@ date_end: 2020-09-18T14:00:40.471Z
 
 all_day: false
 
-event: Everyday life information seeking
+# eventEveryday life information seeking
 # event_url: session-link
 
 publishDate: 2020-01-09T13:30:37.825Z

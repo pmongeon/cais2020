@@ -5,7 +5,7 @@ location: https://zoom.us/j/92552401669
 date: 2020-09-23T14:00:37.763Z
 date_end: 2020-09-23T14:30:40.471Z
 all_day: false
-event: Diversity
+# eventDiversity
 # event_url: session-link
 publishDate: 2020-01-15T13:30:37.825Z
 draft: false

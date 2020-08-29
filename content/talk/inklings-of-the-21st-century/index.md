@@ -5,7 +5,7 @@ location: https://zoom.us/j/91233090614
 date: 2020-09-23T13:30:37.763Z
 date_end: 2020-09-23T13:45:40.471Z
 all_day: false
-event: Community
+# eventCommunity
 # event_url: session-link
 publishDate: 2020-01-23T13:30:37.825Z
 draft: true

@@ -5,7 +5,7 @@ location: https://zoom.us/j/95590938386
 date: 2020-08-28T13:00:37.763Z
 date_end: 2020-08-28T13:30:40.471Z
 all_day: false
-event: Information Behavior
+# eventInformation Behavior
 # event_url: session-link
 publishDate: 2020-01-01T13:00:37.825Z
 draft: true

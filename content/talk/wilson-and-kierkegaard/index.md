@@ -5,7 +5,7 @@ location: https://zoom.us/j/93453233512
 date: 2020-09-07T13:15:00.763Z
 date_end: 2020-09-07T13:45:00.471Z
 all_day: false
-event: Cognitive authority
+# eventCognitive authority
 # event_url: session-link
 publishDate: 2020-06-26T12:36:37.825Z
 draft: true

@@ -5,7 +5,7 @@ location: https://zoom.us/j/94400592297
 date: 2020-10-08T13:30:00.763Z
 date_end: 2020-08-24T14:00:00.471Z
 all_day: false
-event: Public Libraries
+# eventPublic Libraries
 # event_url: session-link
 publishDate: 2020-06-26T12:36:37.825Z
 draft: true

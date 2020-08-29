@@ -8,7 +8,7 @@ date: 2020-10-06T13:30:00.763Z
 date_end: 2020-10-06T14:00:00.471Z
 all_day: false
 
-event: "Session #7 - Decolonization and Indigenous Information"
+# event"Session #7 - Decolonization and Indigenous Information"
 # event_url: session-link
 
 publishDate: 2020-02-06T12:36:37.825Z

@@ -5,7 +5,7 @@ location: https://zoom.us/j/96387855788
 date: 2020-10-12T14:00:37.763Z
 date_end: 2020-10-12T14:15:40.471Z
 all_day: false
-event: Love and compassion
+# eventLove and compassion
 # event_url: session-link
 publishDate: 2020-02-12T14:00:37.825Z
 draft: true

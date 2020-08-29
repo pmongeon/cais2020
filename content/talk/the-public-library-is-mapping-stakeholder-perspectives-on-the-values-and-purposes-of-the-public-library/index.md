@@ -6,7 +6,7 @@ location: https://zoom.us/j/94400592297
 date: 2020-10-08T14:00:00.943Z
 date_end: 2020-10-08T14:30:00.395Z
 all_day: false
-event: Public Libraries
+# eventPublic Libraries
 # event_url: https://cais2020.ca/projects/public-libraries
 publishDate: 2020-06-26T12:32:06.125Z
 draft: true

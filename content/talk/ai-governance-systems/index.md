@@ -10,7 +10,7 @@ date: 2020-10-22T13:30:00.763Z
 date_end: 2020-10-22T13:45:00.471Z
 all_day: false
 
-event: "CAIS2020 - Artificial Intelligence Session"
+# event"CAIS2020 - Artificial Intelligence Session"
 # event_url: ../project/session-1
 
 publishDate: 2020-02-22T13:30:37.825Z

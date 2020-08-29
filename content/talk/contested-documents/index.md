@@ -5,7 +5,7 @@ location: https://zoom.us/j/97927336399
 date: 2020-10-02T14:00:37.763Z
 date_end: 2020-10-02T14:30:40.471Z
 all_day: false
-event: International Perspectives
+# eventInternational Perspectives
 # event_url: session-link
 publishDate: 2020-01-30T14:00:37.825Z
 draft: false

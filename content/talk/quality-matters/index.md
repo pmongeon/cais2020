@@ -5,7 +5,7 @@ location: https://zoom.us/j/99753895458
 date: 2020-09-24T13:00:00.763Z
 date_end: 2020-09-24T13:30:00.471Z
 all_day: false
-event: Online Data and Archives
+# eventOnline Data and Archives
 # event_url: session-link
 publishDate: 2020-06-26T12:36:37.825Z
 draft: false

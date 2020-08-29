@@ -5,7 +5,7 @@ location: https://zoom.us/j/92793250479
 date: 2020-08-26T13:30:00.763Z
 date_end: 2020-08-26T14:00:00.471Z
 all_day: false
-event: Aging
+# eventAging
 # event_url: session-link
 publishDate: 2020-06-26T12:36:37.825Z
 draft: True

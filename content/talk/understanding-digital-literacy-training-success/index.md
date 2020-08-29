@@ -5,7 +5,7 @@ location: https://zoom.us/j/96956337402
 date: 2020-09-14T13:30:00.763Z
 date_end: 2020-09-14T14:00:00.471Z
 all_day: false
-event: Information Literacy
+# eventInformation Literacy
 # event_url: session-link
 publishDate: 2020-06-26T12:36:37.825Z
 draft: false
