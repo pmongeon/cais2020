@@ -9,11 +9,6 @@
   weight = 10
 
 [[main]]
-  name = "Program PDF"
-  url = "project/full-program/program.pdf"
-  weight = 20
-
-[[main]]
   name = "Program"
   url = "#talks"
   weight = 30
