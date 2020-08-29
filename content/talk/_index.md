@@ -8,7 +8,7 @@ title: Recent & Upcoming Talks
 view: 1
 
 # Page order
-order = "asc"
+order: "asc"
 
 # Optional header image (relative to `static/img/` folder).
 header:
