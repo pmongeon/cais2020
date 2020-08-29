@@ -9,9 +9,9 @@
   weight = 10
 
 #[[main]]
-#  name = "Program (PDF)"
-#  url = "project/full-program/program.pdf"
-#  weight = 20
+  name = "Program (PDF)"
+  url = "project/full-program/program.pdf"
+  weight = 20
 
 [[main]]
   name = "Program"
