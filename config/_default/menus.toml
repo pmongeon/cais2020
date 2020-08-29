@@ -9,7 +9,7 @@
   weight = 10
 
 #[[main]]
-  name = "Program (PDF)"
+  name = "Program \(PDF\)"
   url = "project/full-program/program.pdf"
   weight = 20
 
