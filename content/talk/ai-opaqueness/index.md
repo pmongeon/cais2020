@@ -9,7 +9,7 @@ date: 2020-10-22T14:00:00
 date_end: 2020-10-22T15:30:00
 all_day: false
 
-event: "Session #1 - Artificial Intelligence"
+session: "Artificial Intelligence"
 # event_url: "../project/session-1"
 
 publishDate: 2019-01-22T14:00:37.825Z   
