@@ -7,15 +7,15 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 64  # Order that this section will appear.
 
-title = "Upcoming talks"
-subtitle = "Please note that the actual talk dates and times have not yet been set"
+title = "Program"
+subtitle = "Please note that presentations are included in the program only when their date and time have been confirmed with the authors"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 50
   
   # Choose how many pages you would like to offset by
   offset = 0
