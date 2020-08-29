@@ -7,8 +7,13 @@ title: Recent & Upcoming Talks
 #   3 = Card
 view: 1
 
+# Page order
+order = "asc"
+
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
   image: ""
+ 
+
 ---
