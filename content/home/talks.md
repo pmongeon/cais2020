@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 64  # Order that this section will appear.
 
 title = "Program"
-subtitle = "Please note that presentations are included in the program only when their date and time have been confirmed with the authors"
+subtitle = Please note that presentations are included in the program only when their date and time have been confirmed with the authors. [Download program in PDF](https://CAIS2020/program.pdf)
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
