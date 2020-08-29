@@ -4,8 +4,8 @@ abstract: "How is Health Information Science developing as an academic disciplin
 
 location: https://zoom.us/j/98512887586
 
-date: 2020-10-07T13:00:00.763Z
-date_end: 2020-10-07T14:30:00.471Z
+date: 2020-10-16T13:00:00.763Z
+date_end: 2020-10-16T14:30:00.471Z
 all_day: false
 
 event: "Session #5 - Health Information Science"
