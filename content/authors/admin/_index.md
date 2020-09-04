@@ -28,6 +28,6 @@ social:
 ## An **Open** Virtual Conference  
   
   
-CAIS2020 is the annual conference of the [Canadian Association for Information Science](https://cais-acsi.ca). To maximizing participation and engagement and minimize screen fatigue, this year's conference will consists of **42 presentations (including 4 panels) divided in a series of 19 live events spread over 6 weeks (from September 14 - October 26**).  
+CAIS2020 is the annual conference of the [Canadian Association for Information Science](http://cais-acsi.ca). To maximizing participation and engagement and minimize screen fatigue, this year's conference will consists of **42 presentations (including 4 panels) divided in a series of 19 live events spread over 6 weeks (from September 14 - October 26**).  
   
 The website is under preparation and will officilally be lauched on September 7, 2020. In the meantime, take a look at the program below, [follow us on Twitter](https://twitter.com/cais_acsi) for updates, or [contact us](/#contact) if you have any questions.
