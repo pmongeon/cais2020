@@ -27,4 +27,4 @@ social:
 
 ## An **Open** Virtual Conference
 
-The conference website is still under construction... so visit us again later, or [follow us on Twitter](https://twitter.com/cais_acsi) for updates. Please also feel free to [contact us](/#contact).
+The conference website is under preparation and will officilally be lauched on September 9, 2020. In the meantime, you can explore the program below, [follow us on Twitter](https://twitter.com/cais_acsi) for updates, or [contact us](/#contact) if you have any questions.
