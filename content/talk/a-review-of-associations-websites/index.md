@@ -20,8 +20,8 @@ authors:
   - Dinesh Rathi
 
 tags:
-  - "Library Associations"
-  - "Decolonization"
+#  - "Library Associations"
+#  - "Decolonization"
   
 links:
 #  - name: Session
