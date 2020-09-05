@@ -12,8 +12,14 @@ draft: false
 featured: false
 authors:
   - Oluwole Martins Badmus
-tags:
-  - ""
+# tags:
+#  - "Natural Disasters"
+#  - "Communication Behavior"
+#  - "Aftermath"
+#  - "Sentiment Analysis"
+#  - "Online Communities"
+#  - "Information Flow"
+
 image:
   filename: featured
   focal_point: Smart

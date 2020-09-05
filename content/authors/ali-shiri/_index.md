@@ -1,7 +1,7 @@
 ---
 title: Ali Shiri
 role: University of Alberta
-bio: Ali Shiri is an Associate Dean in the Faculty of Graduate Studies and Research and a professor in the School of Library and Information Studies at the University of Alberta. He is the principal investigator for the Inuvialuit Voices Project.
+bio: Ali Shiri is a Professor at the School of Library and Information Studies in the University of Alberta, teaching courses in the areas of digital libraries and information organization and retrieval. His research areas centre on digital libraries, search user interfaces, user interaction with digital information and learning and data analytics.
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
@@ -9,4 +9,4 @@ user_groups:
   - Authors
 ---
 # Bio
-Ali Shiri is an Associate Dean in the Faculty of Graduate Studies and Research and a professor in the School of Library and Information Studies at the University of Alberta. He is the principal investigator for the Inuvialuit Voices Project.
+Ali Shiri is a Professor at the School of Library and Information Studies in the University of Alberta, teaching courses in the areas of digital libraries and information organization and retrieval. His research areas centre on digital libraries, search user interfaces, user interaction with digital information and learning and data analytics.

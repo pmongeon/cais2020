@@ -8,8 +8,8 @@ abstract: “Ordinary” time is commonly defined as time that is neither holida
   emergencies could, in certain circumstances, take on the character of routine
   rather than singular events.
 location: https://zoom.us/j/95590938386
-date: 2020-09-11T13:30:45.566Z
-date_end: 2020-09-11T14:00:55.469Z
+date: 2020-09-18T15:15:00.566Z
+date_end: 2020-09-18T15:45:00.469Z
 all_day: false
 # event: Information Behavior
 # event_url: https://cais2020.ca/projects/information-behavior
