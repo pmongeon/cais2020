@@ -10,10 +10,10 @@ abstract: This paper describes the process and tools used to facilitate a
   online collaborative teaching tools. It is especially relevant to courses or
   projects that include social justice topics.
 
-location: https://zoom.us/j/97904362576
+location: https://zoom.us/j/98825634060 
 
-date: 2020-09-28T13:00:37.763Z
-date_end: 2020-09-28T13:30:40.471Z
+date: 2020-10-26T13:00:37.763Z
+date_end: 2020-10-26T13:30:40.471Z
 all_day: false
 
 # eventLIS Career Development
@@ -21,7 +21,7 @@ all_day: false
 
 publishDate: 2020-01-28T13:00:37.825Z
 
-draft: true
+draft: false
 featured: false
 authors:
   - Davin Helkenberg
