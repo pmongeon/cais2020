@@ -8,7 +8,7 @@ all_day: false
 # eventCommunity
 # event_url: session-link
 publishDate: 2020-01-23T13:30:37.825Z
-draft: true
+draft: false
 featured: false
 authors:
   - Arielle VanderSchans
