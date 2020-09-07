@@ -13,7 +13,7 @@ all_day: false
 
 publishDate: 2020-01-30T13:00:37.825Z
 
-draft: true
+draft: false
 featured: false
 
 authors:
