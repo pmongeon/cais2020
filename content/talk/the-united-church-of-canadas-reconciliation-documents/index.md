@@ -23,12 +23,8 @@ tags:
   - "Collective Memomy"
   
 links:
-#  - name: Session
-#    url: "../project/session-7"
-#  - name: Full-text
-#    url: "#"
-#  - name: Slides
-#    url: "#"
+  - name: Full-text
+    url: "https://github.com/pmongeon/cais2020/raw/master/content/pdf/CAIS2020_paper29_Nord.pdf"
 
 
 image:

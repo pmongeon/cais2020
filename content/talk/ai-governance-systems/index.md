@@ -25,12 +25,10 @@ tags:
   - "Artificial Intelligence"
   
 links:
-#  - name: Session
-#    url: "../project/session-1"
-#  - name: Full-text
-#    url: "#"
-#  - name: Slides
-#    url: "#"
+links:
+  - name: Full-text
+    url: "https://github.com/pmongeon/cais2020/raw/master/content/pdf/CAIS2020_poster1_Frost.pdf"
+
     
 image:
   filename: featured

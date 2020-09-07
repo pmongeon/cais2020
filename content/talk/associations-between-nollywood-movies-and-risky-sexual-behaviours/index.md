@@ -22,6 +22,11 @@ authors:
 
 tags:
   - ""
+  
+links:
+  - name: Full-text
+    url: "https://github.com/pmongeon/cais2020/raw/master/content/pdf/CAIS2020_paper25_Alonge.pdf"
+
 
 image:
   filename: featured

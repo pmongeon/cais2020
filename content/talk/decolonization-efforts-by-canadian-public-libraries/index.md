@@ -1,5 +1,5 @@
 ---
-title: "Decolonization Efforts by Canadian Public Libraries"
+title: "Decolonization efforts by Canadian public libraries"
 abstract: "The Truth and Reconciliation Commission of Canada’s 2015 Calls to Action and the CFLA-FCAB Truth and Reconciliation Committee’s 2017 Report and Recommendations provide libraries with information for furthering reconciliation and decolonization efforts. Public libraries in Canada have responded to these documents by undertaking various initiatives, which are communicated by libraries, for example, through websites. This paper analyzes content from five public library websites and the findings suggest that libraries have taken various initiatives in different areas including online and physical spaces, collection, and programs. Interestingly, decolonization and reconciliation related work also features in some public libraries’ strategic plans."
 
 location: https://zoom.us/j/97680430963
@@ -24,13 +24,8 @@ tags:
   - "Public Libraries"
   
 links:
-#  - name: Session
-#    url: "../project/session-7"
-#  - name: Full-text
-#    url: "#"
-#  - name: Slides
-#    url: "#"
-
+  - name: Full-text
+    url: "https://github.com/pmongeon/cais2020/raw/master/content/pdf/CAIS2020_paper38_Rathi.pdf"
 
 image:
   filename: featured

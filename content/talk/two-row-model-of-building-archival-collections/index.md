@@ -27,12 +27,8 @@ tags:
   - "Indigenous Infomration Policy"
   
 links:
-  - name: Session
-    url: "../project/session-7"
   - name: Full-text
-    url: "#"
-  - name: Slides
-    url: "#"
+    url: "https://github.com/pmongeon/cais2020/raw/master/content/pdf/CAIS2020_paper_Saunders.pdf"
 
 image:
   filename: featured
