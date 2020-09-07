@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 64  # Order that this section will appear.
 
 title = "Program"
-subtitle = "Please click on the titles for more information"
+subtitle = "Please click on the titles for more information."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
