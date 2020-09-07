@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 64  # Order that this section will appear.
 
 title = "Program"
-subtitle = "Please note that some presentations may not yet appear. They are included in the program only when their date and time have been confirmed with the authors."
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
