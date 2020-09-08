@@ -25,7 +25,7 @@ tags:
   
 links:
   - name: Full-text
-    url: "https://github.com/pmongeon/cais2020/raw/master/content/pdf/CAIS2020_paper38_Rathi.pdf"
+    url: "CAIS2020_paper38_Rathi.pdf"
 
 image:
   filename: featured

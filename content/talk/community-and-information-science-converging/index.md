@@ -31,7 +31,7 @@ tags:
 
 links:
   - name: Full-text
-    url: "https://github.com/pmongeon/cais2020/raw/master/content/pdf/CAIS2020_paper30_Stobbs.pdf"
+    url: "CAIS2020_paper30_Stobbs.pdf"
 
 image:
   filename: featured

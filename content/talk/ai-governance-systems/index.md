@@ -27,7 +27,7 @@ tags:
 links:
 links:
   - name: Full-text
-    url: "https://github.com/pmongeon/cais2020/raw/master/content/pdf/CAIS2020_poster1_Frost.pdf"
+    url: "CAIS2020_poster1_Frost.pdf"
 
     
 image:
