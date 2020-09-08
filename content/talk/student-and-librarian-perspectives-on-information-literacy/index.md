@@ -20,6 +20,8 @@ tags:
 links:
   - name: Full-text
     url: "https://github.com/pmongeon/cais2020/raw/master/content/pdf/CAIS2020_paper1_Julien.pdf"
+  - name: Slides
+    url: "Julien_Latham_Gross_CAIS_2020.pdf"
     
 image:
   filename: featured
