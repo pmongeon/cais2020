@@ -22,7 +22,7 @@ tags:
 
 links:
   - name: Full-text
-    url: "https://github.com/pmongeon/cais2020/raw/master/content/pdf/CAIS2020_paper1_Julien.pdf"
+    url: "https://github.com/pmongeon/cais2020/raw/master/content/pdf/CAIS2020_paper31_Barriage.pdf"
 
 
 image:
