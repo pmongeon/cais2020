@@ -13,3 +13,5 @@ user_groups:
   - Presenters
   - Authors
 ---
+# Bio
+Melissa Seelye (she/her/hers) is the Scholarly Communication Coordinator at San Francisco State University. She is an editorial team advisor for Emerging Library and Information Perspectives (ELIP) and teaches the Scholarly Communication and Open Access Publishing course in the MLIS program at Western University.
