@@ -15,7 +15,7 @@ authors:
   - Sara Clarke
   - Marni Harrington
 tags:
-  - "Scholarly communication"
+#  - "Scholarly communication"
 
 links:
   - name: Full-text
