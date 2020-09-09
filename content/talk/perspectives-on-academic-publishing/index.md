@@ -20,6 +20,7 @@ authors:
   - Samuel Cassady
   - Asen O Ivanov
   - Catherine Johnson
+  - Heidi Julien
   - Alec Brookes
   - Stephanie Kaelin
   - Philippe Mongeon
