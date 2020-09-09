@@ -22,7 +22,7 @@ tags:
 
 links:
   - name: Full-text
-    # url: "CAIS2020_paper31_Barriage.pdf"
+    url: "CAIS2020_paper31_Barriage.pdf"
 
 
 image:
