@@ -1,5 +1,5 @@
 ---
-title: "Health Information Science: Perspectives on a discipline in development"
+title: "Health Information Science: Perspectives on a discipline in development (Panel)"
 abstract: "This panel convenes six emerging scholars in the area of health information science, to trace some of the multiple pathways taken by this pluralistic discipline in research, practice and policy areas. How is HIS developing as an academic discipline? In describing the conceptual and methodological concerns of their work, presenters will raise some of the live questions shaping a health information science lens, including:  
   - What practice and policy sectors contain pressing HIS questions right now?  
   - What methodologies are most saliently informing research production in HIS?  
