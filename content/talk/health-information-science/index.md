@@ -22,7 +22,11 @@ featured: false
 
 authors:
   - Eugenia Canas
-  - 
+  - Danica Facca
+  - David Roger Walugembe
+  - Uche Ikenyei
+  - Jill Veenendaal
+  - Anita Slominska
 
 tags:
   - "Health Information"
