@@ -27,8 +27,8 @@ authors:
   - Jill Veenendaal
   - Anita Slominska
 
-tags:
-  - "Health Information"
+# tags:
+#  - "Health Information"
   
 links:
 #  - name: Session
