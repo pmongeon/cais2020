@@ -1,7 +1,11 @@
 ---
-title: "Health Information Science: Perspectives on a discipline in development"
-abstract: "How is Health Information Science developing as an academic discipline? In describing the conceptual and methodological concerns of their work, presenters will raise some of the critical questions shaping the crossover of information science and health studies, including the engagement of practice and policy sectors and the complex social context of health information and knowledge mobilization."
-
+title: "Health Information Science: Perspectives on a discipline in development (Panel)"
+abstract: "This panel convenes six emerging scholars in the area of health information science, to trace some of the multiple pathways taken by this pluralistic discipline in research, practice and policy areas. How is HIS developing as an academic discipline? In describing the conceptual and methodological concerns of their work, presenters will raise some of the live questions shaping a health information science lens, including: <br><br>
+  - What practice and policy sectors contain pressing HIS questions right now? <br> 
+  - What methodologies are most saliently informing research production in HIS?  <br>
+  - What theoretical approaches have been tried in current and ongoing HIS research?  <br>
+  - How is knowledge translation effected in HIS?<br><br>
+"
 location: https://zoom.us/j/98512887586
 
 date: 2020-10-16T13:00:00.763Z
@@ -17,9 +21,14 @@ featured: false
 
 authors:
   - Eugenia Canas
+  - Danica Facca
+  - David Roger Walugembe
+  - Uche Ikenyei
+  - Jill Veenendaal
+  - Anita Slominska
 
-tags:
-  - "Health Information"
+# tags:
+#  - "Health Information"
   
 links:
 #  - name: Session
