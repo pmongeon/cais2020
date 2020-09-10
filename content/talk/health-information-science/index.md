@@ -4,7 +4,7 @@ abstract: "This panel convenes six emerging scholars in the area of health infor
   - What practice and policy sectors contain pressing HIS questions right now? <br> 
   - What methodologies are most saliently informing research production in HIS?  <br>
   - What theoretical approaches have been tried in current and ongoing HIS research?  <br>
-  - How is knowledge translation effected in HIS?<br><br><br>
+  - How is knowledge translation effected in HIS?<br><br>
 "
 location: https://zoom.us/j/98512887586
 
