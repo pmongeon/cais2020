@@ -1,5 +1,5 @@
 ---
-title: "Alternative scholarship through role-playing games: A practical demonstration"
+title: "role-playing games to table-top games (Panel)"
 abstract: Research can take many forms, especially in a field as diverse as
   library studies. This panel will bring together several emerging scholars as
   they navigate current Library and Information Science issues through the
@@ -22,9 +22,8 @@ featured: false
 authors:
   - Arielle VanderSchans
   - Alex Mayhew
-  - Chantale Pard
-  - kirstyn Seanor
-  - Yimin Chen
+  - sarah Cornwell
+  
 tags:
   - ""
 
