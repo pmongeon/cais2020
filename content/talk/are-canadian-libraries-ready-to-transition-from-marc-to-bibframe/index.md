@@ -18,6 +18,9 @@ featured: false
 
 authors:
   - Alexandre Fortier
+  - Heather J Pretty
+  - Daniel B Scott
+  - Olivier Spéciel
 
 tags:
   - ""
