@@ -1,5 +1,5 @@
 ---
-title: "role-playing games to table-top games (Panel)"
+title: " Alternative scholarship through table-top games: A practical demonstration (Panel)"
 abstract: Research can take many forms, especially in a field as diverse as
   library studies. This panel will bring together several emerging scholars as
   they navigate current Library and Information Science issues through the
