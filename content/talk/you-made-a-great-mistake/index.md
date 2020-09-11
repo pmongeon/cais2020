@@ -23,6 +23,10 @@ authors:
 tags:
   - ""
 
+links:
+  - name: Full-text
+    url: "CAIS2020_paper9_Shuva.pdf"
+
 image:
   filename: featured
   focal_point: Smart
