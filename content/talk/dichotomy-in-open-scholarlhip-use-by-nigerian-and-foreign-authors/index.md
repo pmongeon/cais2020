@@ -18,7 +18,7 @@ tags:
   
 links:
   - name: Full-text
-    url: "CAIS2020_paper26_Asubario.pdf"
+    url: "CAIS2020_paper26_Asubiaro.pdf"
     
 image:
   filename: featured
