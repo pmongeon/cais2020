@@ -31,8 +31,5 @@ CAIS2020 is the annual conference of the [Canadian Association for Information S
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fmBr1BsUzfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Live Stream
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPFv03bS0g4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
