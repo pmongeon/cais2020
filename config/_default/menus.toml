@@ -40,3 +40,7 @@
 #  url = "#"
 #  weight = 65
 
+[[main]]
+  name = "Live Stream"
+  url = "https://www.cais2020.ca/live-stream/"
+  weight = 60
