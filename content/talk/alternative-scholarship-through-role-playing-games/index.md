@@ -22,7 +22,7 @@ featured: false
 authors:
   - Arielle VanderSchans
   - Alex Mayhew
-  - sarah Cornwell
+  - Sarah Cornwell
   
 tags:
   - ""
