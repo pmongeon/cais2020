@@ -20,6 +20,10 @@ authors:
 #  - "Online Communities"
 #  - "Information Flow"
 
+links:
+  - name: Full-text
+    url: "CAIS2020_paper21_Badmus.pdf"
+
 image:
   filename: featured
   focal_point: Smart
