@@ -14,6 +14,6 @@ header:
 
 This stream is here to allow you to watch the presentations if, for some reason, you are unable or do not wish to attend the session on Zoom. <br><br>
 
-If the video doesn't show up here, please visit our YouTube channel: https://www.youtube.com/watch?v=PQyGgX0azMc <br><br>
+# If the video doesn't show up here, please visit our YouTube channel: https://www.youtube.com/watch?v=PQyGgX0azMc <br><br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PQyGgX0azMc?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# <iframe width="560" height="315" src="https://www.youtube.com/embed/PQyGgX0azMc?controls=0" frameborder="0" allow="accelero#meter; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
