@@ -22,9 +22,13 @@ links:
     url: "CAIS2020_paper1_Julien.pdf"
   - name: Slides
     url: "Julien_Latham_Gross_CAIS_2020.pdf"
+  - name: Video
+    url: "https://youtu.be/6_6DT7Kyrrg"
     
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6_6DT7Kyrrg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
