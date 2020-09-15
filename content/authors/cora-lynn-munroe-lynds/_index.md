@@ -1,6 +1,6 @@
 ---
 title: Cora-Lynn Munroe-Lynds
-role: Research Assistant
+role: School of Information Management, Dalhousie University
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
