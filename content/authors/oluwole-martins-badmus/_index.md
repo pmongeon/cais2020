@@ -6,4 +6,5 @@ superuser: false
 user_groups:
   - Presenters
   - Authors
+  - Volunteers
 ---

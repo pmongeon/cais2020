@@ -7,6 +7,7 @@ superuser: false
 user_groups:
   - Authors
   - Panelists
+  - Volunteers
 ---
 
 # Bio
