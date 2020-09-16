@@ -14,8 +14,16 @@ featured: false
 authors:
   - Amber Dierking
   - Julia Bullard
+
 tags:
   - ""
+
+links:
+  - name: Full-text
+    url: "CAIS2020_paper14_Dierking.pdf"
+  - name: Slides
+    url: "CAIS2020_slides14_Dierking.pdf"
+    
 image:
   filename: featured
   focal_point: Smart
