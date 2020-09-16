@@ -11,6 +11,7 @@ all_day: false
 publishDate: 2020-06-26T12:36:37.825Z
 draft: false
 featured: false
+
 authors:
   - Amber Dierking
   - Julia Bullard
