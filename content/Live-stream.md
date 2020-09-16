@@ -12,6 +12,5 @@ header:
   image: ""
 ---
 
-This stream is here to allow you to watch the presentations if, for some reason, you are unable or do not wish to attend the session on Zoom. <br><br>
+Live streams will be available here during the live sessions. <br><br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2mND0nyyQGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
