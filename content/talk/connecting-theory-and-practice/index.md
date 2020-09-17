@@ -18,9 +18,13 @@ tags:
 links:
   - name: Poster
     url: "CAIS2020_poster1_Chee.pdf"
+  - name: Video
+    url: "https://www.youtube.com/watch?v=8NudpsV8jXI"
   
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8NudpsV8jXI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
