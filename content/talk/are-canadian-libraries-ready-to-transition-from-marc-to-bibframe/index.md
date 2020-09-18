@@ -28,6 +28,8 @@ tags:
 links:
   - name: Full-text
     url: "CAIS2020_paper13_Fortier.pdf"
+  - name: Slides
+    url: "CAIS2020_slides13_fortier.pdf"
 
 
 image:
