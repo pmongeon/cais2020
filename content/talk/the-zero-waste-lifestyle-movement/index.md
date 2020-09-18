@@ -14,6 +14,11 @@ authors:
   - Louise Spiteri
 tags:
   - ""
+  
+links:
+  - name: Full-text
+    url: "CAIS2020_paper16_Spiteri.pdf" 
+
 categories:
   - Papers
 image:
