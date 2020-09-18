@@ -13,7 +13,7 @@ featured: false
 authors:
   - Amy VanScoy
   - Heidi Julien
-  - Alison Hall
+  - Alison Harding
 tags:
   - ""
   
