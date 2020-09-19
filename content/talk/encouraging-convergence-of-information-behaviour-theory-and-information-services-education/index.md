@@ -14,15 +14,20 @@ authors:
   - Amy VanScoy
   - Heidi Julien
   - Alison Harding
+
 tags:
   - ""
   
 links:
   - name: Full-text
     url: "CAIS2020_paper11_VanScoy.pdf"
+  - name: Video
+    url: "https://youtu.be/4XWC1lz47pM"
 
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4XWC1lz47pM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

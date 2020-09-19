@@ -18,10 +18,13 @@ tags:
 links:
   - name: Full-text
     url: "CAIS2020_paper10_Noone.pdf"
-    
+  - name: Video
+    url: "https://youtu.be/ts8P9gRr_io"
     
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ts8P9gRr_io" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

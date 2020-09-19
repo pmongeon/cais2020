@@ -26,9 +26,13 @@ tags:
 links:
   - name: Full-text
     url: "CAIS2020_paper9_Shuva.pdf"
+  - name: Video
+    url: "https://youtu.be/XaiCmIbcvjg"
 
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XaiCmIbcvjg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
