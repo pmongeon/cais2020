@@ -30,6 +30,8 @@ links:
     url: "CAIS2020_paper13_Fortier.pdf"
   - name: Slides
     url: "CAIS2020_slides13_fortier.pdf"
+  - name: Video
+    url: "https://youtu.be/CFaTMIpuKTk"
 
 
 image:
@@ -37,3 +39,5 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CFaTMIpuKTk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

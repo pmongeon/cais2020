@@ -18,9 +18,15 @@ tags:
 links:
   - name: Full-text
     url: "CAIS2020_paper15_Mayhew.pdf"
+  - name: Slides
+    url: "CAIS2020_slides15_Mayhew.pdf"
+  - name: Video
+    url: "https://youtu.be/SFLeuxW0Mxw"
     
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SFLeuxW0Mxw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
