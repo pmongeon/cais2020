@@ -21,6 +21,8 @@ tags:
 links:
   - name: Full-text
     url: "CAIS2020_paper19_Reyes.pdf"
+  - name: Slides
+    url: "CAIS2020_slides19_Reyes.pdf"
     
 image:
   filename: featured
