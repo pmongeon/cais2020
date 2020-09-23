@@ -17,10 +17,12 @@ tags:
   
 links:
   - name: Full-text
-    url: "CAIS2020_paper16_Spiteri.pdf" 
+    url: "CAIS2020_paper16_Spiteri.pdf"
+  - name: Slides
+    url: "CAIS2020_slides16_Spiteri.pdf"
 
-categories:
-  - Papers
+# categories:
+#  - Papers
 image:
   filename: featured
   focal_point: Smart
