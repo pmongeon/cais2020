@@ -14,6 +14,11 @@ authors:
   - Arielle VanderSchans
 tags:
   - ""
+
+links:
+  - name: Poster
+    url: "CAIS2020_posters_VanderSchans.pdf"
+
 image:
   filename: featured
   focal_point: Smart
