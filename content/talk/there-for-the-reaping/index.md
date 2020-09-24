@@ -22,7 +22,7 @@ links:
   - name: Full-text
     url: "CAIS2020_paper4_Zia.pdf"
   - name: Video
-    url: 
+    url: "https://youtu.be/6ciri7XskRM"
     
     
 image:
@@ -30,5 +30,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ciri7XskRM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
