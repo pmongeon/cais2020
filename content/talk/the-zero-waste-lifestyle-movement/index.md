@@ -20,6 +20,8 @@ links:
     url: "CAIS2020_paper16_Spiteri.pdf"
   - name: Slides
     url: "CAIS2020_slides16_Spiteri.pdf"
+  - name: Video
+    url: "https://youtu.be/t6OtT4V6CQY"
 
 # categories:
 #  - Papers
@@ -28,3 +30,5 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t6OtT4V6CQY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

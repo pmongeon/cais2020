@@ -18,9 +18,12 @@ tags:
 links:
   - name: Full-text
     url: "CAIS2020_paper18_Matthews.pdf"
-
+  - name: Video
+    url: "https://youtu.be/qyyh2eKozLI"
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qyyh2eKozLI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
