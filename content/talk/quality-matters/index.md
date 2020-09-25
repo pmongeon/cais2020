@@ -23,9 +23,13 @@ links:
     url: "CAIS2020_paper19_Reyes.pdf"
   - name: Slides
     url: "CAIS2020_slides19_Reyes.pdf"
+  - name: Video
+    url: "https://youtu.be/T3tqH07BzkM"
     
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T3tqH07BzkM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
