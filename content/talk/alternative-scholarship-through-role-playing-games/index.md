@@ -24,8 +24,14 @@ authors:
   - Alex Mayhew
   - Sarah Cornwell
   
-tags:
-  - ""
+links:
+  - name: Game packet
+    url: "Our_LIS_careers_packet.pdf"
+  - name: Presentation video
+    url: "https://www.youtube.com/embed/aZ5cCrD9-60"
+  - name: Demonstration video
+    url: "https://www.youtube.com/embed/pA9vlGE7G2E"
+    
 
 image:
   filename: featured
