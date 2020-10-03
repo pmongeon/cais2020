@@ -32,3 +32,13 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+# Game packet
+[Click here](Our_LIS_careers_packet.pdf) to download the Game packet
+
+# Presentation video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aZ5cCrD9-60" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Demonstration video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pA9vlGE7G2E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
