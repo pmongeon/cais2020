@@ -35,12 +35,12 @@ image:
 
 ## Game packet
 [Click here](Our_LIS_careers_packet.pdf) to download the Game packet
-
+<br>
 ## Presentation video
 This video covers the concepts and game design for the game "Our LIS Careers".
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aZ5cCrD9-60" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br>
 ## Demonstration video
 This video gives a brief tutorial on character creation, encounters, and other cards such as perks in the game. Following that we have a 20-minute game session so you can see how the game is played.
 <br>
