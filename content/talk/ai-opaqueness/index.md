@@ -26,8 +26,8 @@ authors:
   - Chris Brogly
   
 links:
-#  - name: Session
-#    url: "../project/session-1"
+ - name: Full-text
+   url: "CAIS2020-panel2-Rubin.pdf"
 #  - name: Full-text
 #    url: "#"
 #  - name: Slides
