@@ -37,7 +37,7 @@ tags:
   - Artificial Intelligence
 
 image:
-  filename: featured.jpg
+  filename: "1_AI_Opaquness_Rubin_etal_CAIS2020_ThemedSlides_10052020_VR.png"
   focal_point: Smart
   preview_only: true
 ---
