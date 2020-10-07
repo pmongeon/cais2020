@@ -19,7 +19,7 @@ draft: false
 featured: false
 
 authors:
-  - Robert Blair Frost
+  - R. Blair Frost
   
 tags:
   - "Artificial Intelligence"
