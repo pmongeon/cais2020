@@ -28,8 +28,8 @@ links:
 #    url: "../project/session-7"
   - name: Full-text
     url: "CAIS2020_paper28_Wiebe.pdf"
-#  - name: Slides
-#    url: "#"
+  - name: Video
+    url: "https://youtu.be/PtvSVhkugCU"
 
 
 image:
@@ -37,3 +37,5 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PtvSVhkugCU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

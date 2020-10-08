@@ -19,9 +19,13 @@ tags:
 links:
   - name: Full-text
     url: "CAIS2020_paper24_Willson.pdf"
+  - name: Video
+    url: "https://youtu.be/iQ_MqV-xbok"
     
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iQ_MqV-xbok" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
