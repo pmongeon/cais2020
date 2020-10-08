@@ -25,7 +25,6 @@ tags:
   - "Artificial Intelligence"
   
 links:
-links:
   - name: Full-text
     url: "CAIS2020_poster1_Frost.pdf"
 
