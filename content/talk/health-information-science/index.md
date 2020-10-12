@@ -45,22 +45,22 @@ image:
   preview_only: false
 ---
 
-## Working with youth as stakeholders in mental health systesm transformation: An institutional ethnography of a mental health service organization
-- Eugenia Canas
+### Working with youth as stakeholders in mental health systesm transformation: An institutional ethnography of a mental health service organization
+Eugenia Canas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6aBNOja2VZk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## iKnow: Towards a co-designed digital health literacy assessment tool for children
-- Danica Facca
+### iKnow: Towards a co-designed digital health literacy assessment tool for children
+Danica Facca
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wpkjCWIwbRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Relevance & applicability of health information science to studying implementation of health policy interventions
-- David Roger Walugembe
+### Relevance & applicability of health information science to studying implementation of health policy interventions
+David Roger Walugembe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YEUyEV7HJuU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Who decided that was a good idea? Exploring links between violence against women (VAW) client needs and policy decisions during COVID-19
-- Jill Veenendaal
+### Who decided that was a good idea? Exploring links between violence against women (VAW) client needs and policy decisions during COVID-19
+Jill Veenendaal
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R_iAQM1bEKU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
