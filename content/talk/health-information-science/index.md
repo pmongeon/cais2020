@@ -45,8 +45,7 @@ image:
   preview_only: false
 ---
 
-## Working with youth as stakeholders in mental health systesm transformation
-### An institutional ethnography of a mental health service organization
-#### Eugenia Canas
+## Working with youth as stakeholders in mental health systesm transformation: An institutional ethnography of a mental health service organization
+- Eugenia Canas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6aBNOja2VZk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
