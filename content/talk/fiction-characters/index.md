@@ -19,9 +19,13 @@ tags:
 links:
   - name: "Full-text"
     url: "CAIS2020_paper43_Doty.pdf"
+  - name: "Video"
+    url: https://youtu.be/APFLp7o7Uwg
     
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/APFLp7o7Uwg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

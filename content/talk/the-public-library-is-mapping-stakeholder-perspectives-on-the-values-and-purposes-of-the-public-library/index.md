@@ -18,8 +18,15 @@ authors:
 tags:
   - Public library
   - Values
+  
+links:
+  - name: Video
+    url: https://youtu.be/6mliGECb9dw
+
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6mliGECb9dw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
