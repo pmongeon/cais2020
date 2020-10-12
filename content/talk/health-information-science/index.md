@@ -50,12 +50,12 @@ image:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6aBNOja2VZk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## iKnow: Towards a Co-designed Digital Health Literacy Assessment Tool For Children
+## iKnow: Towards a co-designed digital health literacy assessment tool for children
 - Danica Facca
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wpkjCWIwbRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Working with youth as stakeholders in mental health systesm transformation: An institutional ethnography of a mental health service organization
+## Relevance & applicability of health information science to studying implementation of health policy interventions
 - David Roger Walugembe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YEUyEV7HJuU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
