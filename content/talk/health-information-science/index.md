@@ -60,6 +60,11 @@ David Roger Walugembe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YEUyEV7HJuU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Optimizing the health information system for the next infectious disease pandemic in developing countries: Enhancing an information system model approach
+Uche Ikenyei
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hA7zOc2z8HA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Who decided that was a good idea? Exploring links between violence against women (VAW) client needs and policy decisions during COVID-19
 Jill Veenendaal
 
