@@ -49,3 +49,18 @@ image:
 - Eugenia Canas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6aBNOja2VZk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## iKnow: Towards a Co-designed Digital Health Literacy Assessment Tool For Children
+- Danica Facca
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wpkjCWIwbRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Working with youth as stakeholders in mental health systesm transformation: An institutional ethnography of a mental health service organization
+- David Roger Walugembe
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YEUyEV7HJuU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Who decided that was a good idea? Exploring links between violence against women (VAW) client needs and policy decisions during COVID-19
+- Jill Veenendaal
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R_iAQM1bEKU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
