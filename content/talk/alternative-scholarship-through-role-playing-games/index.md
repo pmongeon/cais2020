@@ -1,5 +1,5 @@
 ---
-title: " Alternative scholarship through table-top games: A practical demonstration (Panel)"
+title: "Alternative scholarship through table-top games: A practical demonstration (Panel)"
 abstract: Research can take many forms, especially in a field as diverse as
   library studies. This panel will bring together several emerging scholars as
   they navigate current Library and Information Science issues through the
@@ -31,6 +31,8 @@ links:
     url: "https://www.youtube.com/embed/aZ5cCrD9-60"
   - name: Demonstration video
     url: "https://www.youtube.com/embed/pA9vlGE7G2E"
+  - name: "Q&A video"
+    url: "https://youtu.be/4Hc-b6gTA3M"
     
 
 image:
@@ -53,3 +55,8 @@ This video gives a brief tutorial on character creation, encounters, and other c
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pA9vlGE7G2E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Q&A video
+
+This is the recording of the live Q&A from October 9th, 2020.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Hc-b6gTA3M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
