@@ -31,12 +31,8 @@ tags:
   - Big Deals
 
 links:
-#  - name: Session
-#    url: "../project/session-8"
-#  - name: Full-text
-#    url: "#"
-#  - name: Slides
-#    url: "#"
+  - name: Video
+    url: "https://youtu.be/ufDPVU9SwkI"
   
 image:
   filename: featured
@@ -45,4 +41,4 @@ image:
   
 ---
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ufDPVU9SwkI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
