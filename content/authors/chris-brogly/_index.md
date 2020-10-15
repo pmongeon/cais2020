@@ -2,7 +2,7 @@
 title: "Chris Brogly"
 role: Faculty of Information & Media Studies, Western University
 avatar_filename: avatar.jpg
-bio: Chris Brogly is a Doctoral Student in the Health Information Science program at the University of Western Ontario. He completed his MSc in Computer Science from Western in 2016 and a BCS Co-op from the University of Windsor in 2015. His research interests include health informatics, predictive modelling, decision support systems, and applications of visualization and simulation in healthcare.
+bio: Chris Brogly is a Doctoral Student in the Health Information Science program at the University of Western Ontario. He completed his MSc in computer science from Western in 2017 and a BCS Co-op from the University of Windsor in 2015. His research interests are in health informatics, predictive modelling, and the internet.
 superuser: false
 user_groups:
   - Authors
@@ -10,4 +10,4 @@ user_groups:
 ---
 
 # Bio
-Chris Brogly is a Doctoral Student in the Health Information Science program at the University of Western Ontario. He completed his MSc in Computer Science from Western in 2016 and a BCS Co-op from the University of Windsor in 2015. His research interests include health informatics, predictive modelling, decision support systems, and applications of visualization and simulation in healthcare.
+Chris Brogly is a Doctoral Student in the Health Information Science program at the University of Western Ontario. He completed his MSc in computer science from Western in 2017 and a BCS Co-op from the University of Windsor in 2015. His research interests are in health informatics, predictive modelling, and the internet.
