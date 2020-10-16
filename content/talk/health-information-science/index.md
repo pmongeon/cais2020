@@ -34,7 +34,6 @@ authors:
 links:
   - name: Video
     url: "https://youtu.be/z8aZ6rJyZQQ"
-  - name: Full-text
 
 image:
   filename: featured
