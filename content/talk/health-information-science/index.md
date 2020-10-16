@@ -32,12 +32,9 @@ authors:
 #  - "Health Information"
   
 links:
-#  - name: Session
-#    url: "../project/session-5"
-#  - name: Full-text
-#    url: "#"
-#  - name: Slides
-#    url: "#"
+  - name: Video
+    url: "https://youtu.be/z8aZ6rJyZQQ"
+  - name: Full-text
 
 image:
   filename: featured
@@ -45,8 +42,10 @@ image:
   preview_only: false
 ---
 
+## Live presentations and Q&A
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z8aZ6rJyZQQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-We invite you to view these presentations throughout the week leading to our October 16 panel discussion.
+## Individual presentations
 
 ### Working with youth as stakeholders in mental health systems transformation: An institutional ethnography of a mental health service organization
 Eugenia Canas
