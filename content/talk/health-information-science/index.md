@@ -32,8 +32,8 @@ authors:
 #  - "Health Information"
   
 links:
-  - name: Video
-    url: "https://youtu.be/z8aZ6rJyZQQ"
+  - name: Videos
+    url: "https://www.youtube.com/playlist?list=PLHgr5ZnpF46sFUnlB0qfRVwJDKW_W0Vqc"
 
 image:
   filename: featured
