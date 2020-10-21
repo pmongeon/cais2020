@@ -8,9 +8,6 @@ date: 2020-10-22T14:00:00
 date_end: 2020-10-22T15:30:00
 all_day: false
 
-session: "Artificial Intelligence"
-# event_url: "../project/session-1"
-
 publishDate: 2019-01-22T14:00:37.825Z   
 
 draft: false
@@ -41,3 +38,29 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+### Presentations
+
+## Introduction and Problem Setting
+Victoria Rubin
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZxQrKJU8qio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Explanations for AI
+Jacquie Burkell
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AoYoYLNCuu8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Users Expectations About Explanations
+Danica Potts
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D-8DP1dbEbI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Recommender Systems as Example
+Toluwase Asubiaro
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UgEKseCim6Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Language Thickness and Bias in AI
+Sarah Cornwell
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vz-g2pm3tFk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Summary and Q&A
+Victoria Rubin
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pFY9lNR02-I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
