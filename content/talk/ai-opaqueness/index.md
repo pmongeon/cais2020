@@ -41,7 +41,7 @@ image:
 
 ### Presentations
 
-## Introduction and Problem Setting
+## Introduction, Definitions, and Problem Setting
 Victoria Rubin
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZxQrKJU8qio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -57,11 +57,11 @@ Danica Potts
 Toluwase Asubiaro
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8LV3p1K09ho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Language Thickness and Bias in AI
+## Language Data 'Thickness': Richness Allows Algorithm to Reproduce Biases 
 Sarah Cornwell
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vz-g2pm3tFk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Clickbait Detector Explainer
+## Clickbait Detector, News Verification Browser Explainer
 Yimin Chen and Chris Brogly
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CH8Q5qVZtE8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
