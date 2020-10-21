@@ -53,7 +53,7 @@ Jacquie Burkell
 Danica Potts
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D-8DP1dbEbI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Recommender Systems as Example
+## Recommender Systems as Example of Opaqueness
 Toluwase Asubiaro
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8LV3p1K09ho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
