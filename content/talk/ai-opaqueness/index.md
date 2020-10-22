@@ -65,6 +65,13 @@ Sarah Cornwell
 Yimin Chen and Chris Brogly
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CH8Q5qVZtE8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Clickbait Detector Demo for Research Use
+Chris Brogly
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wrELSeZrm68" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Summary and Q&A
 Victoria Rubin
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pFY9lNR02-I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## News Verification Browser Demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OtitQ-f4AL4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
