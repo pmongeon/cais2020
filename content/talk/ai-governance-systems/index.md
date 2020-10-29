@@ -28,6 +28,8 @@ links:
     url: "CAIS2020_poster1_Frost.pdf"
   - name: Poster
     url: "CAIS2020_poster_Frost.pdf"
+  - name: Video
+    url: "https://youtu.be/30r6pbAKTTc"
 
     
 image:
@@ -35,3 +37,5 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/30r6pbAKTTc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
