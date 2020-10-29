@@ -25,10 +25,8 @@ authors:
 links:
  - name: Full-text
    url: "CAIS2020-panel2-Rubin.pdf"
-#  - name: Full-text
-#    url: "#"
-#  - name: Slides
-#    url: "#"
+ - name: Videos
+   url: "https://www.youtube.com/playlist?list=PLHgr5ZnpF46vJJMynApXh1X0-IvE4LeY6"
   
 tags:
   - Artificial Intelligence
@@ -75,3 +73,6 @@ Victoria Rubin
 
 ## News Verification Browser Demo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OtitQ-f4AL4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Q&A
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MKg8OBf0_jU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
