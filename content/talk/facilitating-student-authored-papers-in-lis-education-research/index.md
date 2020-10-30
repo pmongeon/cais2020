@@ -31,7 +31,7 @@ tags:
 links:
   - name: Full-text
     url: "CAIS2020_paper42_Helkenberg.pdf"
-  - video:
+  - name: Video 
     url: "https://youtu.be/phpXECHFpP8"
     
 image:
