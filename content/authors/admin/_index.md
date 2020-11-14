@@ -29,7 +29,7 @@ social:
   \
 CAIS2020 is the annual conference of the [Canadian Association for Information Science](http://cais-acsi.ca). 
 This year's conference consisted of **42 presentations (including 4 panels) divided in a series of 20 live events spread over 6 weeks (September 14 - October 26)**.<br><br>
-We would like to thank everyone who participated in this event and contributed to it's great success. We hope to see you again for CAIS2021 and that you will consider supporting our association's 
+We would like to thank everyone who participated in this event and contributed to its great success. We hope to see you again for CAIS2021 and that you will consider supporting our association's 
 effort to better serve our community by [becoming a member](http://cais-acsi.ca/membership/).
 <br><br>
 We would also like to congratulate **Martin Nord, this year's recipient of the Student-to-CAIS award** with his presentation entitled [The United Church of Canada's Reconciliation Documents and the Indexing of Collective Memory](https://www.cais2020.ca/talk/the-united-church-of-canadas-reconciliation-documents/). <br><br>
