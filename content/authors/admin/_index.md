@@ -32,10 +32,7 @@ This year's conference consisted of **42 presentations (including 4 panels) divi
 We would like to thank everyone who participated in this event and contributed to it's great success. We hope to see you again for CAIS2021 and that you will consider supporting our association's 
 effort to provide support to the LIS research community by [becoming a member](http://cais-acsi.ca/membership/).
 <br><br>
-We would also like to congratulate Martin Nord, this year's recipient of the Student-to-CAIS award with his presentation entitled [The United Church of Canada's Reconciliation Documents and the Indexing of Collective Memory](https://www.cais2020.ca/talk/the-united-church-of-canadas-reconciliation-documents/). <br>
-Congratulations also to Alexandre Fortier, Heather Pretty, Daniel B Scott, Olivier Spéciel, winners of the best practitioner paper award for their paper [Are Canadian Libraries Ready to Transition from MARC to BIBFRAME?](https://www.cais2020.ca/talk/are-canadian-libraries-ready-to-transition-from-marc-to-bibframe/).
-<br>
-### Thank you all and see you next year.
-
-
-
+We would also like to congratulate **Martin Nord, this year's recipient of the Student-to-CAIS award** with his presentation entitled [The United Church of Canada's Reconciliation Documents and the Indexing of Collective Memory](https://www.cais2020.ca/talk/the-united-church-of-canadas-reconciliation-documents/). <br><br>
+Congratulations also to **Alexandre Fortier, Heather Pretty, Daniel B Scott, Olivier Spéciel, winners of the best practitioner paper award** for their paper [Are Canadian Libraries Ready to Transition from MARC to BIBFRAME?](https://www.cais2020.ca/talk/are-canadian-libraries-ready-to-transition-from-marc-to-bibframe/).
+<br><br>
+Thank you all and see you next year!
