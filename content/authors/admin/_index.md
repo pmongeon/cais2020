@@ -33,6 +33,6 @@ We would like to thank everyone who participated in this event and contributed t
 effort to better serve our community by [becoming a member](http://cais-acsi.ca/membership/).
 <br><br>
 We would also like to congratulate **Martin Nord, this year's recipient of the Student-to-CAIS award** with his presentation entitled [The United Church of Canada's Reconciliation Documents and the Indexing of Collective Memory](https://www.cais2020.ca/talk/the-united-church-of-canadas-reconciliation-documents/). <br><br>
-Congratulations also to **Alexandre Fortier, Heather Pretty, Daniel B Scott, Olivier Spéciel, winners of the best practitioner paper award** with their presentation entitled [Are Canadian Libraries Ready to Transition from MARC to BIBFRAME?](https://www.cais2020.ca/talk/are-canadian-libraries-ready-to-transition-from-marc-to-bibframe/).
+Congratulations also to **Alexandre Fortier, Heather Pretty, Daniel B Scott and Olivier Spéciel, winners of the best practitioner paper award** with their presentation entitled [Are Canadian Libraries Ready to Transition from MARC to BIBFRAME?](https://www.cais2020.ca/talk/are-canadian-libraries-ready-to-transition-from-marc-to-bibframe/).
 <br><br>
 Thank you all and see you next year!
